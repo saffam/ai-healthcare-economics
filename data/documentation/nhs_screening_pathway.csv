@@ -1,0 +1,11 @@
+stage_id,stage,activity,potential_resource_use,potential_ai_effect,measurable_indicator
+S01,Identification,Identify eligible people,Administration and screening register management,Possible workflow support,Eligible population
+S02,Invitation,Offer screening appointment,Invitation and administration costs,Possible administrative support,Offer rate
+S03,Attendance,Attend screening appointment,Appointment and screening staff time,Not necessarily affected by grading AI,Attendance rate
+S04,Image acquisition,Capture retinal images,Camera equipment and screening staff,Image quality may affect AI usability,Image acquisition success
+S05,Image grading,Assess retinal images,Human grader time and quality assurance,Direct AI application,Grading time and diagnostic performance
+S06,Image quality,Identify ungradable images,Repeat imaging and alternative assessment,AI may not grade all images,Ungradable image rate
+S07,Referral,Refer people with screen-positive outcomes,Administrative and clinical resources,AI classification may change referral numbers,Referral rate
+S08,Surveillance,Monitor eligible people,Digital surveillance resources,Potential changes in workload,Surveillance volume
+S09,Consultation,Attend hospital or surveillance consultation,Clinical appointments and diagnostic resources,Indirect effect through referral patterns,Consultation attendance
+S10,Long-term outcome,Manage disease and complications,Long-term healthcare resources,Potential effect through earlier or missed detection,Health outcomes
