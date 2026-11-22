@@ -1,0 +1,4 @@
+
+source_id,authors,year,title,journal,doi,url,source_type,country_or_setting,relevance
+DR001,"Wang Y et al.",2024,"Economic evaluation for medical artificial intelligence: accuracy vs. cost-effectiveness in a diabetic retinopathy screening case","npj Digital Medicine","10.1038/s41746-024-01032-9","https://www.nature.com/articles/s41746-024-01032-9","Primary economic evaluation","China","Examines the relationship between AI diagnostic performance and long-term cost-effectiveness in a nationwide diabetic retinopathy screening model"
+DR002,"Leigh J et al.",2025,"Health Economic Considerations for the Implementation of Artificial Intelligence-Enabled Diabetic Retinopathy Screening: A Review","Clinical & Experimental Ophthalmology","10.1111/ceo.70016","https://doi.org/10.1111/ceo.70016","Economic evidence review","International","Reviews 18 economic evaluations and identifies methodological, contextual and follow-up considerations"
