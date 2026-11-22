@@ -203,3 +203,90 @@ The intended contribution is an evidence-based framework for evaluating AI adopt
 This protocol describes the proposed research design. It does not report completed literature searches, empirical results or established conclusions.
 
 The protocol may be updated when justified by evidence, methodological considerations or clearly documented changes in scope.
+
+## Additional Case-Study Search and Evidence Procedures
+
+The focused case study examines AI-assisted diabetic retinopathy screening.
+
+Additional evidence will be identified through searches of PubMed, official NHS England and GOV.UK publications, NICE guidance and relevant peer-reviewed literature.
+
+Search concepts include:
+
+- Diabetic retinopathy screening.
+- Artificial intelligence.
+- Automated retinal image grading.
+- Diagnostic accuracy.
+- Sensitivity and specificity.
+- Cost-effectiveness.
+- Cost-utility.
+- Budget impact.
+- NHS screening pathway.
+- Implementation and workforce costs.
+
+Official NHS sources will be prioritised for the description of the English screening pathway and service standards.
+
+Peer-reviewed clinical studies and systematic reviews will inform diagnostic accuracy. Economic evaluations will inform model structure and identify relevant cost and outcome categories.
+
+Evidence will be recorded with its publication details, population, setting, study design, comparator, outcomes, limitations and transferability.
+
+International results will not be treated as direct NHS estimates.
+
+The review will distinguish between clinical accuracy, clinical effectiveness, service efficiency, budget impact and cost-effectiveness.
+
+The search process and any later amendments will be recorded to support reproducibility.
+### The NHS England Screening Pathway and Its Economic Implications
+
+The NHS Diabetic Eye Screening Programme provides an important institutional context for evaluating AI-assisted retinal image grading. The national pathway includes eligibility identification, invitation, attendance, image acquisition, grading, referral, surveillance and subsequent consultation.
+
+This pathway matters because AI is principally applied to the image-grading stage, whereas the economic consequences of adoption may extend across the wider service. Changes in grading performance may influence the number of positive classifications, referrals, repeat imaging requirements and subsequent clinical appointments.
+
+NHS England's pathway standards include measures relating to screening coverage, uptake, image quality, timely results, referral and subsequent consultation. These measures demonstrate that programme performance cannot be assessed solely through the speed or accuracy of image classification.
+
+The national pathway also makes clear that individuals with ungradable images may require an alternative assessment route, while people with referable outcomes may enter digital surveillance or hospital eye services. An economic evaluation that excludes these activities risks understating the resources required to deliver the complete screening pathway.
+
+Accordingly, the present study adopts a pathway-based approach. It considers the potential effect of AI on grading resources while recognising that any resulting change in referrals, follow-up or clinical workload must also be considered.
+
+The available national coverage figures provide contextual information about programme performance over time. They do not identify the causal effect of AI and are not used as evidence that AI improves screening uptake or coverage.
+
+### Diagnostic Accuracy and Its Relationship to Economic Value
+
+Diagnostic accuracy is an important determinant of the economic consequences of AI-assisted screening. Sensitivity and specificity influence the number of people correctly identified, the number incorrectly classified and the subsequent demand for referral and follow-up services.
+
+Systematic review evidence indicates that AI systems can achieve high diagnostic accuracy in diabetic retinopathy screening. However, pooled estimates vary according to imaging conditions, disease definitions, study populations and reference standards.
+
+The comparative evidence also illustrates that higher sensitivity may be accompanied by lower specificity in some settings. This trade-off is economically relevant because false-positive results may generate additional assessments, while false-negative results may delay appropriate diagnosis and treatment.
+
+The consequences of diagnostic errors are not symmetrical. A missed case of referable disease may create clinical harm, whereas an unnecessary referral may create additional service costs and patient burden. The model should therefore avoid treating all classification errors as equivalent.
+
+Furthermore, results among gradable images do not necessarily describe performance across all screening attempts. Image quality and ungradable results may require repeat imaging, human review or alternative assessment.
+
+For these reasons, the present analysis treats diagnostic performance as a context-dependent model input rather than a universal property of healthcare AI. Diagnostic accuracy will be considered alongside implementation costs, workforce requirements, referral activity and downstream outcomes.
+
+### Economic Evidence and the Transferability Problem
+
+Economic evaluations of AI-assisted diabetic retinopathy screening provide useful evidence about the potential relationship between diagnostic performance, resource use and long-term health outcomes. Nevertheless, the findings of international studies cannot automatically be transferred to NHS England.
+
+Differences in screening frequency, population characteristics, workforce costs, referral arrangements, healthcare infrastructure, technology procurement and follow-up behaviour may materially affect economic results.
+
+A cost-saving result in one setting does not demonstrate that the same technology will reduce expenditure in another. Similarly, a favourable cost-effectiveness estimate depends on the assumptions, comparator, time horizon and economic perspective used in the original analysis.
+
+The present study therefore separates the use of international evidence to inform model structure from the use of UK-specific evidence to populate an NHS-focused analysis.
+
+Where a suitable NHS cost or clinical parameter cannot be identified, the parameter will remain unresolved. This approach is preferable to substituting unrelated cost estimates or presenting illustrative assumptions as observed evidence.
+
+The analysis also distinguishes between financial savings and released staff capacity. An AI system may reduce time spent on grading without reducing the actual staffing budget. The economic interpretation depends on how the released capacity is used and whether other costs increase.
+
+These considerations mean that the present research will treat economic value as conditional on implementation, service design and institutional context rather than as an automatic consequence of adopting AI.
+### Policy, Governance and Implementation Considerations
+
+The implementation of AI-assisted screening requires more than evidence of diagnostic performance. Healthcare organisations must consider the technology's intended role, quality assurance, human oversight, data governance, clinical responsibility and ongoing monitoring.
+
+NICE's Evidence Standards Framework for Digital Health Technologies provides a UK framework for considering evidence of effectiveness and economic impact. Its economic standards recognise that the level and type of economic evidence should reflect the financial risk associated with a technology.
+
+For AI-assisted screening, relevant implementation questions include whether the system operates autonomously or supports a human grader, how uncertain or ungradable images are managed, how performance is monitored and how responsibility for referral decisions is allocated.
+
+The NHS screening pathway also places importance on timely referrals and subsequent consultations. An AI system that generates classifications without an effective referral and follow-up pathway may fail to deliver the expected health benefits.
+
+Governance should therefore be assessed as part of the economic and institutional context. Training, technical support, quality assurance, information governance and accountability may create costs, but they are also necessary conditions for safe implementation.
+
+The policy implications of AI adoption are consequently dependent on the ability of healthcare organisations to integrate the technology into an established clinical pathway while maintaining patient safety, equitable access and appropriate professional oversight.

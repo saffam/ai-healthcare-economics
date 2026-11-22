@@ -16,3 +16,12 @@ P013,Follow-up attendance,Proportion of referred people attending follow-up,prop
 P014,Staff time,Staff time required per screening,minutes per screening,,,,,,"Workforce",,"Not yet populated"
 P015,Health outcome,Health outcome used in the economic model,defined measure,,,,,,"Clinical",,"Not yet populated"
 P016,Time horizon,Duration of the economic evaluation,years,,,,,,"Model",,"Not yet populated"
+P017,England screening coverage,Proportion meeting the published screening coverage definition,proportion,0.805,,,UK descriptive source,Health Trends and Variation in England 2025,NHS,Approximate 2024 published figure; descriptive only,Descriptive evidence
+P018,AI sensitivity,Probability of detecting the defined referable disease threshold,proportion,,,,DA001 or another selected study,Study-specific table or page,Clinical,Must match selected population and pathway,Not selected
+P019,AI specificity,Probability of correctly classifying people without the defined disease threshold,proportion,,,,DA001 or another selected study,Study-specific table or page,Clinical,Must match selected population and pathway,Not selected
+P020,Human sensitivity,Probability of detecting the defined referable disease threshold through human grading,proportion,,,,DA001 or another selected study,Study-specific table or page,Clinical,Comparator must match the same threshold,Not selected
+P021,Human specificity,Probability of correctly classifying people without the defined disease threshold through human grading,proportion,,,,DA001 or another selected study,Study-specific table or page,Clinical,Comparator must match the same threshold,Not selected
+P022,AI ungradable rate,Proportion of images not receiving a usable AI result,proportion,,,,Clinical validation source,Study-specific table or page,Clinical,Must include image quality failures where reported,Not selected
+P023,Human ungradable rate,Proportion of images not receiving a usable human grading result,proportion,,,,Clinical validation source,Study-specific table or page,Clinical,Comparator definition must be consistent,Not selected
+P024,AI referral rate,Proportion of screened people referred after AI pathway,proportion,,,,Clinical or pathway study,Study-specific table or page,NHS,Must distinguish true and false positive referrals,Not selected
+P025,Human referral rate,Proportion of screened people referred after human grading,proportion,,,,Clinical or pathway study,Study-specific table or page,NHS,Must use comparable population and threshold,Not selected

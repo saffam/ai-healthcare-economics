@@ -1,0 +1,10 @@
+gap_id,cost_gap,importance,reason,planned_action,status
+CG001,Cost per screening appointment,High,Needed to compare whole screening pathways,Identify suitable NHS costing source,Open
+CG002,Cost per human grading activity,High,Required for comparator costing,Search NHS service costing and published studies,Open
+CG003,AI software price,High,Commercial prices may not be publicly available,Use published procurement or evaluation evidence if available,Open
+CG004,Integration cost,High,Implementation can require substantial technical work,Identify published implementation studies,Open
+CG005,Training cost,Medium,Training affects initial and ongoing expenditure,Identify workforce implementation evidence,Open
+CG006,Maintenance cost,High,Recurring expenditure affects long-term value,Identify published contracts or evaluations,Open
+CG007,Referral cost,High,Referral rates may change with diagnostic performance,Identify suitable NHS activity costs,Open
+CG008,Repeat imaging cost,Medium,Image quality failure may generate additional activity,Identify pathway costs,Open
+CG009,Quality assurance cost,Medium,AI systems require ongoing oversight,Identify published governance and implementation costs,Open

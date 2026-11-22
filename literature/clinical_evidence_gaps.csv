@@ -1,0 +1,9 @@
+gap_id,evidence_gap,why_it_matters,planned_response,status
+G001,NHS-specific AI diagnostic validation,International accuracy may not transfer to NHS populations,Search for UK-specific prospective validation,Open
+G002,Image ungradability under AI pathways,Unusable images may require repeat imaging or human assessment,Record gradability and repeat-screening evidence,Open
+G003,Referral consequences,False positives can increase referrals and workload,Model false-positive and true-positive pathways,Open
+G004,Missed disease consequences,False negatives may delay diagnosis and treatment,Describe clinical risk and avoid assuming no harm,Open
+G005,Follow-up attendance,Screening results only matter if subsequent care occurs,Use NHS pathway standards and published attendance evidence,Open
+G006,Human review requirements,Some systems require human oversight,Classify each system by operational pathway,Open
+G007,Population differences,Prevalence and patient characteristics affect predictive values,Record population and disease prevalence in each study,Open
+G008,Long-term outcomes,Diagnostic accuracy does not establish long-term sight outcomes,Identify evidence linking screening to health outcomes,Open

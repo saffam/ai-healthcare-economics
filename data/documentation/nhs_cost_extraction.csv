@@ -1,0 +1,13 @@
+cost_id,cost_category,activity,cost_value,currency,price_year,unit,source_id,source_table_or_page,adjustment_method,transferability,verification_status,notes
+C001,Screening,Screening appointment,,,,,UK003,,,,Not extracted,
+C002,Workforce,Human image grading,,,,,UK003,,,,Not extracted,
+C003,Workforce,Clinical review,,,,,UK003,,,,Not extracted,
+C004,Referral,Hospital eye service consultation,,,,,UK003,,,,Not extracted,
+C005,Surveillance,Digital surveillance appointment,,,,,UK003,,,,Not extracted,
+C006,Technology,AI software licence,,,,,,,,,Not identified,
+C007,Technology,Hardware and equipment,,,,,,,,,Not identified,
+C008,Implementation,System integration,,,,,,,,,Not identified,
+C009,Implementation,Staff training,,,,,,,,,Not identified,
+C010,Maintenance,Technical support and maintenance,,,,,,,,,Not identified,
+C011,Quality assurance,AI performance monitoring,,,,,,,,,Not identified,
+C012,Pathway,Repeat imaging after ungradable result,,,,,,,,,Not extracted
