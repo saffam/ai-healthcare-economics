@@ -1,0 +1,18 @@
+
+parameter_id,parameter_name,description,unit,base_case_value,lower_value,upper_value,source_id,source_location,perspective,notes,status
+P001,Eligible population,Number of people eligible for diabetic retinopathy screening,people,,,,,,"NHS",,"Not yet populated"
+P002,Screening attendance rate,Proportion of eligible people attending screening,proportion,,,,,,"NHS",,"Not yet populated"
+P003,AI cost per screening,Variable AI technology cost per completed screening,GBP per screening,,,,,,"NHS",,"Not yet populated"
+P004,Human grading cost,Cost of conventional human grading per screening,GBP per screening,,,,,,"NHS",,"Not yet populated"
+P005,AI implementation cost,Initial implementation and integration cost,GBP,,,,,,"NHS",,"Not yet populated"
+P006,AI maintenance cost,Annual maintenance and support cost,GBP per year,,,,,,"NHS",,"Not yet populated"
+P007,Training cost,Initial and ongoing staff training cost,GBP,,,,,,"NHS",,"Not yet populated"
+P008,AI sensitivity,Probability of correctly identifying referable disease,proportion,,,,,,"Clinical",,"Not yet populated"
+P009,AI specificity,Probability of correctly identifying non-referable disease,proportion,,,,,,"Clinical",,"Not yet populated"
+P010,Human grading sensitivity,Probability of correctly identifying referable disease,proportion,,,,,,"Clinical",,"Not yet populated"
+P011,Human grading specificity,Probability of correctly identifying non-referable disease,proportion,,,,,,"Clinical",,"Not yet populated"
+P012,Referral cost,Cost of further assessment following referral,GBP per referral,,,,,,"NHS",,"Not yet populated"
+P013,Follow-up attendance,Proportion of referred people attending follow-up,proportion,,,,,,"NHS",,"Not yet populated"
+P014,Staff time,Staff time required per screening,minutes per screening,,,,,,"Workforce",,"Not yet populated"
+P015,Health outcome,Health outcome used in the economic model,defined measure,,,,,,"Clinical",,"Not yet populated"
+P016,Time horizon,Duration of the economic evaluation,years,,,,,,"Model",,"Not yet populated"
