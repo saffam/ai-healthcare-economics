@@ -1,0 +1,18 @@
+
+parameter_group,parameter,required_evidence,current_status,approved_for_model
+population,eligible_screening_population,Defined population and reporting period,requires_verification,no
+attendance,screening_attendance,Applicable official uptake data,source_identified_period_specific,no
+prevalence,referable_disease_prevalence,Compatible population and disease definition,requires_verification,no
+diagnostic_accuracy,ai_sensitivity,Full-text verified study estimate,requires_verification,no
+diagnostic_accuracy,ai_specificity,Full-text verified study estimate,requires_verification,no
+diagnostic_accuracy,comparator_sensitivity,Full-text verified comparator estimate,requires_verification,no
+diagnostic_accuracy,comparator_specificity,Full-text verified comparator estimate,requires_verification,no
+technology,ai_licence_cost,Verified price and pricing unit,not_identified,no
+implementation,integration_cost,Verified implementation expenditure,not_identified,no
+workforce,training_cost,Verified training resource and cost,not_identified,no
+workforce,clinical_oversight_cost,Verified oversight resource and cost,not_identified,no
+maintenance,annual_maintenance_cost,Verified recurring expenditure,not_identified,no
+pathway,false_positive_follow_up_cost,Verified downstream pathway cost,not_identified,no
+pathway,false_negative_consequence,Verified clinical and economic consequences,requires_verification,no
+outcomes,health_outcome_measure,Defined and supported outcome measure,requires_verification,no
+time_horizon,model_time_horizon,Justified economic time horizon,requires_definition,no

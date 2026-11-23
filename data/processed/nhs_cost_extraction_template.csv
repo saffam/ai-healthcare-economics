@@ -1,0 +1,8 @@
+
+parameter_id,cost_category,activity_definition,value,currency,price_year,unit,source_name,source_url,table_or_page,average_or_marginal,geography,extraction_date,verification_status,model_approval,notes
+C001,screening,Cost per completed screening event,,,,GBP,,NHS National Cost Collection,https://www.england.nhs.uk/costing-in-the-nhs/national-cost-collection/,,,,,not_extracted,no,
+C002,referral,Cost per referral for further assessment,,,,GBP,,NHS National Cost Collection,https://www.england.nhs.uk/costing-in-the-nhs/national-cost-collection/,,,,,not_extracted,no,
+C003,technology,AI licence cost,,,,GBP,,Supplier contract or published procurement evidence,,,,,,not_identified,no,
+C004,integration,System integration and deployment cost,,,,GBP,,Published procurement or implementation evidence,,,,,,not_identified,no,
+C005,workforce,Training and oversight cost,,,,GBP,,Published workforce or costing evidence,,,,,,not_identified,no,
+C006,maintenance,Annual maintenance and support cost,,,,GBP,,Published procurement or implementation evidence,,,,,,not_identified,no,

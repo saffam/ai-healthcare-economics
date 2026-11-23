@@ -1,0 +1,5 @@
+
+source_id,publisher,source_title,financial_year,source_url,data_type,potential_use,limitation,status
+COST001,NHS England,National Cost Collection,2024/25,https://www.england.nhs.uk/publication/2024-25-national-cost-collection-data-publication/,National schedule and organisation-level costs,Investigate relevant NHS service unit costs,May not isolate marginal screening or AI-specific costs,identified_not_extracted
+COST002,NHS England,National Cost Collection,2023/24,https://www.england.nhs.uk/publication/2023-24-national-cost-collection-data-publication/,National schedule and organisation-level costs,Historical comparison where relevant,Financial year differs from 2024/25 and must be labelled,identified_not_extracted
+COST003,NHS England,Approved costing guidance,2026,https://www.england.nhs.uk/costing-in-the-nhs/approved-costing-guidance/,Costing methods and standards,Guide interpretation of cost data,Guidance is not itself a unit-cost estimate,identified_not_extracted

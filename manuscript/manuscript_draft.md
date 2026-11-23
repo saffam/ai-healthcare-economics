@@ -452,6 +452,21 @@ A system that improves initial image processing may still create additional cost
 
 The project uses NHS pathway documentation to establish the service context. Published screening coverage statistics are treated as descriptive service information, not as evidence that AI caused changes in screening activity or outcomes.
 
+
+
+## 5.2.1 Official screening standards and service activity
+
+The NHS Diabetic Eye Screening Programme provides the national service context for the case study. The programme's pathway standards applicable from 1 October 2024 and its pathway requirements updated in April 2025 provide the basis for defining the screening process and its operational requirements.
+
+National screening activity measures also provide descriptive evidence concerning participation. For example, the Q4 2023/24 screening KPI reported routine digital screening uptake of 80.8%, based on 2,520,323 people tested out of 3,119,795 offered screening.
+
+This measure describes participation in routine digital screening. It does not measure the effect of artificial intelligence and cannot be used to infer that AI improves attendance or screening outcomes.
+
+The NHS National Cost Collection provides a potential source of information about the costs of NHS services. However, its aggregated and organisation-level cost information must be matched carefully to the activity being evaluated. In particular, conventional service costs should not be assumed to include AI-specific licensing, integration, training, maintenance or clinical oversight.
+
+Consequently, the official pathway and costing sources strengthen the institutional and economic framework of the case study, but do not yet provide a complete set of verified inputs for a comparative NHS economic model.
+
+
 ## 5.3 AI-assisted and autonomous screening
 
 Two broad operational arrangements are relevant.
@@ -560,6 +575,19 @@ These include software acquisition, system integration, infrastructure, training
 The project has not established a complete set of verified NHS-specific acquisition and operating costs for AI-enabled diabetic retinopathy screening. Accordingly, a definitive total-cost estimate is not reported.
 
 The absence of a verified cost is treated as an evidence gap rather than a zero-cost assumption.
+
+
+
+## 6.3.1 Availability and limitations of NHS cost evidence
+
+NHS England publishes National Cost Collection information, including national schedules of NHS costs and organisation-level cost data. These sources provide a potential basis for identifying relevant healthcare resource costs.
+
+However, the availability of national costing information does not establish that every activity required for the present model has a directly comparable unit cost. Average costs, marginal costs, tariffs and supplier prices represent different economic concepts and should not be substituted for one another without justification.
+
+AI-specific expenditure also requires separate consideration. Licensing, software integration, deployment, staff training, technical support, clinical oversight and ongoing maintenance may not be identifiable as separate items within conventional service cost categories.
+
+The project therefore records the National Cost Collection as an identified source but does not treat it as a completed extraction of all required model costs. Until compatible values have been extracted and verified, the NHS-specific economic model remains unresolved.
+
 
 ## 6.4 Diagnostic performance and clinical outcomes
 

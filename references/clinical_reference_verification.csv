@@ -1,0 +1,4 @@
+
+reference_id,first_author,year,title,journal,doi,source_url,bibliographic_status,full_text_extraction_status,model_input_status
+DR001,Tahir,2025,Artificial intelligence versus manual screening for the detection of diabetic retinopathy: a comparative systematic review and meta-analysis,Frontiers in Medicine,10.3389/fmed.2025.1519768,https://pmc.ncbi.nlm.nih.gov/articles/PMC12092458/,verified,required,not_approved
+DR002,Ipp,2021,Pivotal Evaluation of an Artificial Intelligence System for Autonomous Detection of Referrable and Vision-Threatening Diabetic Retinopathy,JAMA Network Open,10.1001/jamanetworkopen.2021.34254,https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2786132,verified,required,not_approved

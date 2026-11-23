@@ -1,0 +1,10 @@
+
+stage_id,pathway_stage,resource_or_activity,economic_questions,evidence_required
+S01,Invitation,Invitation and cohort administration,What is the cost per eligible person invited?,Verified programme activity and administrative cost
+S02,Attendance,Patient attends screening,What proportion of invited people attend?,Official uptake KPI and denominator definition
+S03,Image capture,Retinal photography and image quality,What is the cost per screening event?,Service activity and relevant unit cost
+S04,Image assessment,Human grading or AI assessment,What staff and technology resources are used?,Workforce time and verified AI operating costs
+S05,Result communication,Results issued to screened person,What are the communication and administration costs?,Pathway activity and service costs
+S06,Referral,Referral for further assessment,How many referrals occur and what resources do they use?,Referral rates and verified pathway costs
+S07,Surveillance,Additional monitoring where indicated,What additional appointments and tests are required?,Surveillance activity and costs
+S08,Clinical follow_up,Further assessment and treatment where needed,What are the downstream resource and outcome consequences?,Clinical activity, outcomes and unit costs

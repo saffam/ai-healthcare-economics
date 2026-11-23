@@ -1,49 +1,40 @@
-# NHS Cost Evidence Extraction Rules
 
-## 1. Purpose
 
-These rules standardise extraction of costs for the diabetic-retinopathy screening case study.
+# NHS cost extraction rules
 
-## 2. Required information
+## 1. Source identification
 
-For each cost estimate, record:
+For every extracted cost, record the publisher, dataset, financial year, table or workbook, activity definition and access date.
 
-- Source and publication details.
-- NHS organisation or geographical setting.
-- Financial year and price year.
-- Unit of measurement.
-- Cost perspective.
-- Included resources.
-- Excluded resources.
-- Whether the amount is observed, modelled or assumed.
-- Whether the estimate is recurrent or one-off.
-- Any inflation or currency conversion applied.
-- Applicability to the modelled pathway.
+## 2. Cost definition
 
-## 3. Cost categories
+Record whether the value is:
 
-Separate technology acquisition, software licensing, infrastructure, integration, training, maintenance, monitoring, staff time, grading, referral and follow-up.
+- An average cost.
+- A marginal or incremental cost.
+- A tariff or payment amount.
+- An organisation-specific cost.
+- A technology supplier price.
+- A modelled or assumed value.
 
-Avoid double-counting resources that appear in more than one cost category.
+These categories must not be treated as interchangeable.
 
-## 4. Price-year consistency
+## 3. Currency and price year
 
-Costs from different financial years should not be combined without a documented adjustment to a common price year. Record the index and calculation used.
+Record currency, price year and any adjustment applied. Do not combine values from different financial years without documenting the adjustment method.
 
-Do not convert currencies without recording the exchange rate date and method.
+## 4. Activity matching
 
-## 5. NHS applicability
+The cost must correspond to the activity being modelled. A hospital appointment cost must not automatically be substituted for a screening image assessment cost.
 
-Prefer NHS England sources for NHS-specific cost inputs. International estimates may be retained as contextual evidence but must not be labelled as NHS costs.
+## 5. AI-specific expenditure
 
-## 6. Missing values
+Search separately for licensing, procurement, integration, hosting, training, support, monitoring and maintenance. Do not assume these are included in conventional service costs.
 
-A missing cost is not zero. Record it as missing, explain its importance and assess its effect on model readiness.
+## 6. Missing information
 
-## 7. False-positive and false-negative costs
+Record unavailable values as missing or unresolved. Never replace missing values with zero.
 
-Do not assume that all false-positive cases generate identical follow-up costs. Similarly, do not assign a monetary cost to a false negative without defining the clinical consequences, time horizon and evidence supporting the estimate.
+## 7. Approval for modelling
 
-## 8. Reporting
-
-All extracted costs must be traceable to their original source and unit. Modelled or illustrative values must be clearly labelled and must not be reported as observed NHS expenditure.
+A cost may enter the economic model only after its definition, source, year, population and relevance to the comparator have been checked.
