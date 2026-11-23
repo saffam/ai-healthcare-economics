@@ -1,0 +1,18 @@
+
+parameter_id,parameter_name,value,unit,evidence_source,evidence_status,notes
+P001,population_size,,people,,missing,Requires a defined NHS-relevant population and period
+P002,screening_prevalence,,proportion,,missing,Requires a defined target condition and population
+P003,ai_sensitivity,,proportion,,missing,Requires verified full-text evidence applicable to the model
+P004,ai_specificity,,proportion,,missing,Requires verified full-text evidence applicable to the model
+P005,comparator_sensitivity,,proportion,,missing,Requires verified comparator evidence
+P006,comparator_specificity,,proportion,,missing,Requires verified comparator evidence
+P007,ai_cost_per_person,,GBP/person,,missing,Requires verified technology and pathway cost
+P008,comparator_cost_per_person,,GBP/person,,missing,Requires mapped NHS comparator cost
+P009,ai_implementation_cost,,GBP,,missing,Requires verified one-off implementation expenditure
+P010,ai_annual_maintenance_cost,,GBP/year,,missing,Requires verified recurring cost
+P011,ai_training_cost,,GBP,,missing,Requires verified training expenditure
+P012,ai_monitoring_cost,,GBP/year,,missing,Requires verified monitoring expenditure
+P013,follow_up_cost_per_person,,GBP/person,,missing,Requires applicable NHS pathway cost
+P014,false_positive_follow_up_cost,,GBP/person,,missing,Requires verified cost and pathway definition
+P015,false_negative_expected_cost,,GBP/person,,missing,Requires defensible outcome and cost evidence
+P016,time_horizon,,years,,missing,Requires an explicitly justified time horizon

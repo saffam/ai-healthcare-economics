@@ -1,0 +1,17 @@
+parameter_id,parameter_name,value,unit,evidence_source,evidence_status,readiness,issues
+P001,population_size,,people,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P002,screening_prevalence,,proportion,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P003,ai_sensitivity,,proportion,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P004,ai_specificity,,proportion,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P005,comparator_sensitivity,,proportion,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P006,comparator_specificity,,proportion,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P007,ai_cost_per_person,,GBP/person,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P008,comparator_cost_per_person,,GBP/person,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P009,ai_implementation_cost,,GBP,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P010,ai_annual_maintenance_cost,,GBP/year,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P011,ai_training_cost,,GBP,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P012,ai_monitoring_cost,,GBP/year,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P013,follow_up_cost_per_person,,GBP/person,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P014,false_positive_follow_up_cost,,GBP/person,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P015,false_negative_expected_cost,,GBP/person,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified
+P016,time_horizon,,years,,missing,unresolved,Missing value; Missing evidence source; Input is not marked as verified

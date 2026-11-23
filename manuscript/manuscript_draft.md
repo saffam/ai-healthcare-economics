@@ -1,27 +1,37 @@
 # The Economics of Artificial Intelligence in Healthcare: Economic Value, Human Trust, Institutional Differences and the Governance of AI-Assisted Decision-Making
 
-**Research type:** Independent academic research project  
+**Research type:** Independent secondary research project  
 **Geographical focus:** NHS England, with international comparative evidence  
-**Research approach:** Structured literature review, comparative evidence synthesis and transparent economic modelling  
-**Research status:** Working manuscript — evidence collection and quantitative analysis in progress  
+**Research approach:** Structured evidence review, comparative synthesis and economic evaluation framework  
 **Author:** Independent researcher  
-**Date:** 2026
+**Date:** 2026  
+**Status:** Working research manuscript; evidence verification and quantitative analysis remain in progress
 
 ---
 
 ## Abstract
 
-Artificial intelligence (AI) is increasingly being considered for use across healthcare, including diagnostic assessment, clinical decision support, screening, administrative processes and resource allocation. Although these technologies may offer opportunities to improve efficiency, productivity and patient outcomes, their economic value and practical effectiveness depend on more than technical performance. Implementation costs, workforce implications, organisational capacity, professional judgement, patient trust, clinical governance and institutional context may all influence the outcomes of adoption.
+### Background
 
-This independent research project examines the economic, institutional and policy conditions under which artificial intelligence may improve healthcare efficiency and outcomes. It considers how the costs, benefits and risks of healthcare AI should be evaluated, and the extent to which healthcare professionals, patients and organisations can reasonably trust AI-assisted decisions.
+Artificial intelligence (AI) is increasingly being considered for healthcare applications, including medical screening, diagnosis, clinical decision support and service administration. These technologies may improve aspects of healthcare delivery, but their economic and clinical value depends on more than technical performance. Implementation costs, workforce effects, institutional readiness, human trust, governance and equity may all influence whether benefits are realised.
 
-The research adopts a structured secondary-research approach, combining published academic evidence, systematic reviews, health technology assessment guidance and official healthcare policy material. NHS England provides the principal institutional reference point, while international studies are considered where they offer relevant evidence. The research examines economic value, implementation costs, productivity, workforce implications, human trust, institutional differences, reimbursement and governance.
+### Aim
 
-A focused case study of AI-assisted diabetic retinopathy screening provides an applied context for examining diagnostic accuracy, screening pathways, workforce requirements and economic evaluation. The proposed economic analysis distinguishes between financial savings, released workforce capacity, clinical outcomes and wider societal effects.
+This research examines the economic, institutional and policy conditions under which AI may improve healthcare efficiency and outcomes. It considers how costs, benefits and risks should be evaluated and the extent to which healthcare professionals, patients and organisations can reasonably trust AI-assisted decisions.
 
-The research is designed to distinguish observed evidence from modelled estimates and illustrative assumptions. It does not presume that healthcare AI is inherently beneficial or cost-saving. Its conclusions will depend on the quality, applicability and limitations of the evidence identified.
+### Methods
 
-**Keywords:** artificial intelligence; healthcare economics; health economics; cost-effectiveness; productivity; clinical decision support; human trust; NHS England; health technology assessment; diabetic retinopathy screening; healthcare governance.
+The project uses independent secondary research, structured evidence mapping and comparative synthesis. NHS England is the principal institutional context, with international evidence considered where relevant. Diabetic retinopathy screening is used as a focused case study to examine diagnostic performance, healthcare pathways and economic evaluation requirements. A transparent economic modelling framework is developed to identify the data needed for a potential comparison between conventional and AI-supported screening. The project does not recruit participants, undertake clinical interventions or use identifiable patient records.
+
+### Results
+
+The preliminary evidence indicates that some healthcare AI applications may offer economic and operational benefits. However, published economic evaluations are heterogeneous, and results depend on technology, population, implementation arrangements and modelling assumptions. Diagnostic performance alone does not establish improved patient outcomes or cost-effectiveness. Important evidence requirements remain concerning NHS-specific implementation costs, workforce effects, pathway outcomes and distributional consequences. A definitive NHS-specific incremental cost-effectiveness result cannot currently be reported because verified and compatible model inputs have not been established.
+
+### Conclusions
+
+Healthcare AI should be evaluated as part of the wider care pathway rather than as a standalone technology. Responsible adoption requires transparent assessment of implementation and maintenance costs, clinical consequences, workforce effects, institutional readiness, human oversight and equity. Economic benefits should be treated as conditional and context-specific rather than assumed.
+
+**Keywords:** artificial intelligence; health economics; cost-effectiveness; healthcare technology assessment; diabetic retinopathy; NHS England; clinical decision support; workforce productivity; trust; governance.
 
 ---
 
@@ -29,472 +39,330 @@ The research is designed to distinguish observed evidence from modelled estimate
 
 ## 1.1 Background
 
-Artificial intelligence has become an increasingly important subject in healthcare policy, research and service development. Applications include medical image analysis, diagnostic support, risk prediction, clinical decision support, patient monitoring, administrative automation and the management of healthcare resources.
+Artificial intelligence has become an increasingly important area of healthcare research and policy. Applications include medical image interpretation, risk prediction, clinical decision support, administrative automation and the prioritisation of healthcare services.
 
-These applications have the potential to influence how healthcare services are organised and delivered. AI systems may support the analysis of large quantities of clinical information, identify patterns that are difficult to detect manually and assist professionals in making decisions.
+These applications create opportunities to change how healthcare resources are used. AI may support the interpretation of clinical information, reduce selected repetitive tasks, assist prioritisation and contribute to more consistent decision-making. However, these potential benefits are not guaranteed. Technologies must operate within real clinical pathways, organisations and regulatory environments.
 
-However, the introduction of AI into healthcare raises important economic and institutional questions.
+The economic implications are consequently complex. A technology may be technically effective but expensive to implement. It may reduce the time required for one task while increasing work elsewhere. It may improve the identification of patients who require further assessment while creating additional referrals and investigations. The overall effect depends on the interaction between the technology and the healthcare system in which it is deployed.
 
-A technology may achieve high diagnostic accuracy without necessarily reducing total healthcare expenditure. A system may reduce the time required for one activity while increasing costs elsewhere in the care pathway. An apparent improvement in productivity may represent released staff capacity rather than an actual reduction in expenditure.
+## 1.2 The economic evaluation problem
 
-Similarly, technical performance does not automatically translate into improved patient outcomes. The benefits of an AI system may depend on whether it is implemented appropriately, integrated into existing workflows, accepted by healthcare professionals and supported by effective clinical governance.
+Economic evaluation provides a framework for comparing the costs and consequences of alternative healthcare interventions. In the context of AI, this requires attention to the resources associated with procurement, implementation, operation, monitoring and maintenance.
 
-The economic evaluation of healthcare AI must therefore consider the wider healthcare system rather than focusing exclusively on the purchase price or technical performance of a particular technology.
+A narrow assessment based only on software acquisition costs or diagnostic accuracy risks overlooking important economic consequences. Relevant costs may include integration with existing information systems, infrastructure, staff training, maintenance, clinical oversight and changes to service capacity.
 
-## 1.2 The economic problem
+Similarly, a reported reduction in processing time does not necessarily establish a productivity improvement. Time released must be used in a way that improves service output, reduces resource requirements or enables other valuable activities before a productivity or financial benefit can be claimed.
 
-Healthcare resources are limited. Decisions concerning the adoption of new technologies must therefore consider the opportunity cost of allocating resources to one intervention rather than another.
+Economic claims must therefore be connected to measurable outcomes and clearly defined comparators.
 
-AI adoption may require expenditure on:
+## 1.3 Human and institutional dimensions
 
-- Software licences and subscriptions.
-- Hardware and computing infrastructure.
-- Integration with existing healthcare systems.
-- Staff training.
-- Technical support.
-- Maintenance and updating.
-- Cybersecurity.
-- Data governance.
-- Quality assurance.
-- Clinical oversight.
-- Regulatory and compliance activities.
+Healthcare AI is not adopted in isolation. Its effects depend on the people and organisations using it.
 
-These costs may occur before a technology produces any potential benefit. Some are recurring, while others are associated with initial implementation.
+Healthcare professionals must understand the intended role and limitations of AI systems. Patients may need clear information about how AI contributes to decisions concerning their care. Organisations require appropriate procurement, governance, monitoring and accountability arrangements.
 
-Potential benefits may include reduced administrative workload, improved diagnostic processes, more efficient use of clinical staff, earlier identification of disease and better allocation of healthcare resources.
+Trust is particularly important. Appropriate trust should be based on evidence, transparency, validation and the ability to recognise when human review is necessary. Uncritical reliance may expose patients and organisations to avoidable risks, while a lack of confidence may prevent useful technologies from being adopted appropriately.
 
-However, these benefits must be measured rather than assumed.
+Institutional differences also matter. Organisations vary in their digital infrastructure, staffing, service pathways, budgets and implementation capacity. A technology that produces favourable results in one setting may not produce the same results elsewhere.
 
-For example, reducing the time required for a healthcare professional to complete an activity does not necessarily reduce the organisation's staffing expenditure. The released time may instead be used to undertake additional clinical work.
+## 1.4 Research problem
 
-This distinction is important when evaluating productivity and economic value.
+Claims about the value of healthcare AI can combine different types of evidence. Technical performance, clinical effectiveness, productivity, budget impact and cost-effectiveness are related but distinct concepts.
 
-## 1.3 The institutional problem
+A diagnostic system may achieve high sensitivity and specificity without demonstrating improved long-term outcomes. A technology may reduce the workload of one professional group while transferring tasks to another. A model may project cost savings under assumptions that are not yet supported by routine NHS data.
 
-The effects of healthcare AI may differ between healthcare organisations and systems.
+The evaluation of healthcare AI therefore requires an integrated approach that considers economic, clinical, workforce, institutional and governance dimensions together.
 
-Differences in workforce structures, technology infrastructure, procurement arrangements, clinical pathways, population characteristics and governance arrangements may influence whether a technology delivers economic or clinical benefits.
+## 1.5 Research aim and objectives
 
-A technology that is economically attractive in one country may not produce the same result in another.
+The aim of this independent research project is to examine the economic, institutional and policy conditions under which AI may improve healthcare efficiency and outcomes, and to assess how costs, benefits and risks should be evaluated.
 
-This is particularly relevant when considering the transferability of international economic evaluations to NHS England.
-
-## 1.4 The human and governance problem
-
-Healthcare decisions involve professional judgement, clinical responsibility and relationships between patients and healthcare professionals.
-
-AI-assisted decisions may create questions concerning transparency, accountability, professional autonomy, reliability and appropriate human oversight.
-
-Healthcare professionals may be reluctant to rely on systems whose recommendations they cannot adequately understand or evaluate. Patients may also have concerns about how their information is used and how automated decisions influence their care.
-
-Trust should therefore not be understood as unconditional acceptance of AI. The relevant objective is appropriate and informed trust, supported by evidence, accountability and effective governance.
-
-## 1.5 Research rationale
-
-This research brings together economic, clinical, institutional and human considerations that are often examined separately.
-
-It aims to develop an integrated framework for understanding when healthcare AI may create economic value, how that value should be evaluated and what conditions are necessary for responsible implementation.
-
----
-
-# 2. Research Aim, Questions and Objectives
-
-## 2.1 Overall research aim
-
-The overall aim is to examine the economic, institutional, human and policy conditions under which artificial intelligence can create value in healthcare, with particular attention to NHS England and the evaluation of AI-assisted decision-making.
-
-## 2.2 Central research question
-
-**Under what economic, institutional and policy conditions can artificial intelligence improve healthcare efficiency and outcomes, how should its costs, benefits and risks be evaluated, and to what extent can healthcare professionals, patients and organisations reasonably trust AI-assisted decisions?**
-
-## 2.3 Research questions
-
-### RQ1 — Economic value
-
-Does healthcare AI generate measurable economic value and improvements in productivity, efficiency and patient outcomes?
-
-### RQ2 — Costs
-
-What direct, indirect, implementation, maintenance and opportunity costs are associated with healthcare AI?
-
-### RQ3 — Workforce and human judgement
-
-How does AI affect professional autonomy, workforce productivity, clinical responsibilities and human decision-making?
-
-### RQ4 — Trust
-
-What technical, human and organisational factors determine appropriate trust in AI-assisted healthcare decisions?
-
-### RQ5 — Institutional differences
-
-Why might the economic and clinical effects of the same AI technology differ across healthcare organisations, systems and population groups?
-
-### RQ6 — Policy and governance
-
-What policy, reimbursement, regulatory and accountability arrangements support safe, equitable and economically sustainable AI adoption?
-
-## 2.4 Research objectives
-
-The research has the following objectives:
+The objectives are to:
 
 1. Examine published evidence concerning the economic value of AI in healthcare.
-2. Identify direct and indirect costs associated with AI development, procurement and implementation.
-3. Evaluate how productivity and efficiency are measured in healthcare AI studies.
-4. Examine the implications of AI for healthcare professionals, workforce capacity and clinical judgement.
-5. Identify the factors influencing professional and patient trust.
-6. Compare institutional conditions that may influence AI implementation and outcomes.
-7. Examine relevant NHS England, NICE and international policy frameworks.
-8. Assess the implications of reimbursement, accountability and governance.
-9. Develop a transparent economic evaluation framework.
-10. Apply the framework to AI-assisted diabetic retinopathy screening.
-11. Identify evidence gaps and methodological limitations.
-12. Develop policy and research recommendations supported by the available evidence.
+2. Identify direct, indirect, implementation and maintenance costs.
+3. Analyse implications for workforce productivity and professional judgement.
+4. Examine factors associated with appropriate trust in AI-assisted decisions.
+5. Consider institutional differences and the transferability of evidence.
+6. Assess relevant governance, reimbursement and equity considerations.
+7. Develop a transparent economic evaluation framework using diabetic retinopathy screening as a focused case study.
+
+## 1.6 Research questions
+
+The project addresses six research questions:
+
+**RQ1 — Economic value:** Does healthcare AI generate measurable economic value and improvements in productivity, efficiency and patient outcomes?
+
+**RQ2 — Costs:** What direct, indirect, implementation, maintenance and opportunity costs are associated with healthcare AI?
+
+**RQ3 — Workforce and human judgement:** How does AI affect professional autonomy, workforce productivity, clinical responsibilities and human decision-making?
+
+**RQ4 — Trust:** What technical, human and organisational factors determine appropriate trust in AI-assisted healthcare decisions?
+
+**RQ5 — Institutional differences:** Why might the economic and clinical effects of the same AI technology differ across healthcare organisations, systems and population groups?
+
+**RQ6 — Policy and governance:** What policy, reimbursement, regulatory and accountability arrangements support safe, equitable and economically sustainable AI adoption?
+
+## 1.7 Scope and contribution
+
+The principal geographical focus is NHS England. International research is included to provide comparative evidence and identify methodological approaches, but findings from other health systems are not assumed to transfer directly to England.
+
+The project is based on secondary evidence and transparent analytical methods. It does not involve participant recruitment, clinical experimentation, direct intervention or identifiable patient-level data.
+
+Its contribution is an integrated framework for evaluating healthcare AI. Rather than assuming that technical performance leads automatically to economic benefit, the project examines the conditions under which potential benefits may be realised and the evidence needed to support credible conclusions.
 
 ---
 
-# 3. Literature Review
+# 2. Literature Review
 
-## 3.1 Economic evaluation of healthcare AI
+## 2.1 Economic evaluation of healthcare AI
 
-Economic evaluation is necessary to determine whether a healthcare technology provides sufficient benefits relative to the resources it consumes.
+The economic evaluation of AI in healthcare has developed alongside the expansion of digital health technologies. Published studies examine applications across diagnostic imaging, oncology, cardiology, ophthalmology and other clinical areas.
 
-Relevant methods include:
+Wu et al. (2025) provide a systematic review of economic evaluations of AI-assisted healthcare technologies. Their review indicates that favourable economic conclusions have been reported in a substantial proportion of included studies. However, variation in methods and incomplete reporting of AI-specific costs complicate interpretation.
 
-- Cost-effectiveness analysis.
-- Cost-utility analysis.
-- Cost-benefit analysis.
-- Cost-minimisation analysis.
-- Budget impact analysis.
-- Cost-consequence analysis.
+El Arab and Al Moosa (2025) also examine cost-effectiveness and budget-impact evidence. Their review is relevant to the importance of indirect costs, infrastructure and equity considerations, which may not be consistently represented in published evaluations.
 
-These methods answer different questions and should not be treated as interchangeable.
+These reviews demonstrate why the existence of favourable published evaluations should not be interpreted as evidence that every healthcare AI application is cost-effective. Results depend on the technology, comparator, population, assumptions, time horizon and healthcare setting.
 
-Cost-effectiveness analysis compares incremental costs with incremental outcomes. Cost-utility analysis commonly uses quality-adjusted life-years. Budget impact analysis examines the expected financial consequences of adopting a technology within a defined budget.
+An economic evaluation must also distinguish between cost-effectiveness and cost-saving. An intervention may improve health outcomes at an additional cost and still represent reasonable value. Conversely, a technology may reduce expenditure while producing worse outcomes. These are different economic and policy questions.
 
-Published reviews of AI economic evaluations suggest that many studies report favourable economic results. However, methodological differences, incomplete reporting of AI-specific costs and uncertainty about long-term outcomes limit the extent to which such findings can be generalised.
+## 2.2 Costs and resource consequences
 
-Wu et al. (2025) reviewed economic evaluations of AI-assisted healthcare technologies and identified substantial variation in the applications and evaluation methods represented.
+The costs of healthcare AI may extend beyond software procurement. Implementation can require technical infrastructure, system integration, data preparation, training, maintenance, monitoring and clinical oversight.
 
-El Arab and Al Moosa (2025) also examined the cost-effectiveness and budget impact literature, highlighting concerns about indirect costs, infrastructure and equity.
+NICE's Evidence Standards Framework for Digital Health Technologies provides a relevant UK framework for considering evidence requirements for digital technologies. Its associated guidance recognises the importance of costs and resource implications.
 
-These reviews provide a basis for examining both the potential economic value of AI and the limitations of existing evidence.
+A complete economic assessment should distinguish one-off implementation expenditure from recurring operating costs. It should also consider opportunity costs: resources committed to an AI programme may not be available for alternative healthcare activities.
 
-## 3.2 Costs of AI implementation
+The absence of reported cost information should be treated as uncertainty, not as evidence that the cost is zero.
 
-The cost of an AI system should not be restricted to its purchase price.
+## 2.3 Clinical performance and economic consequences
 
-Implementation may require:
+Clinical performance is a necessary consideration when evaluating diagnostic AI, but it is not sufficient to establish economic value.
 
-- Initial technology procurement.
-- Software licensing.
-- Hardware.
-- System integration.
-- Data preparation.
-- Staff training.
-- Clinical validation.
-- Technical support.
-- Maintenance.
-- Monitoring.
-- Information governance.
-- Cybersecurity.
+Sensitivity and specificity describe the ability of a test to identify people with and without a target condition according to a defined reference standard. Their practical consequences depend on disease prevalence, the tested population, image quality, clinical thresholds and subsequent care pathways.
 
-The distinction between initial and recurring costs is important.
+False-positive results may generate additional assessments, referrals and anxiety. False-negative results may delay diagnosis or treatment. The economic consequences therefore depend on how diagnostic results affect subsequent healthcare activity and outcomes.
 
-A technology may have a relatively low initial purchase price but substantial recurring costs. Conversely, implementation may require significant initial expenditure while producing potential long-term benefits.
+A valid economic evaluation should connect diagnostic performance to the care pathway rather than treating accuracy measures as direct financial outcomes.
 
-The economic analysis should also consider opportunity costs: resources allocated to AI cannot simultaneously be used for other healthcare activities.
+It is also necessary to distinguish diagnostic accuracy measured in a research setting from performance during routine service delivery. Differences in patient characteristics, equipment, image quality, staff experience and workflow may affect real-world performance.
 
-## 3.3 Productivity and efficiency
+## 2.4 Diabetic retinopathy screening
 
-Productivity concerns the relationship between resources used and outputs produced.
+Diabetic retinopathy screening provides a focused example of the economic and organisational questions raised by healthcare AI.
 
-In healthcare AI research, productivity may be assessed through measures such as:
+Wang et al. (2024) examine the economic evaluation of medical AI in a diabetic retinopathy screening case. Their work illustrates that the most accurate configuration need not necessarily be the most cost-effective configuration under a model's assumptions.
 
-- Time required to complete a task.
-- Number of cases processed.
-- Staff workload.
-- Waiting times.
-- Administrative activity.
-- Resource use.
-- Throughput.
-- Service capacity.
+Leigh et al. (2025) review health economic considerations for AI-enabled diabetic retinopathy screening. Variation in methods and contextual parameters across evaluations highlights the importance of follow-up adherence, local service arrangements and the assumptions used in economic modelling.
 
-However, an increase in throughput does not necessarily establish an improvement in patient outcomes.
+The relevance of these studies to NHS England must be assessed carefully. Differences in population characteristics, healthcare costs, screening organisation and referral pathways may limit transferability.
 
-Similarly, reduced staff time should not automatically be reported as a financial saving.
+The case study is therefore not intended to transfer an international economic result directly into the NHS context. Instead, it examines what evidence would be needed to evaluate the potential economic consequences of AI-supported screening in England.
 
-The economic significance of released capacity depends on how that capacity is used, whether additional work is undertaken and whether expenditure actually changes.
+## 2.5 Workforce and professional judgement
 
-## 3.4 Workforce and professional autonomy
+AI may alter clinical workflows by automating selected tasks, supporting prioritisation or providing additional information to healthcare professionals.
 
-AI may alter the distribution of tasks between healthcare professionals and automated systems.
+The economic consequences are not necessarily straightforward. A reduction in the time required for image grading, for example, does not automatically mean that a service can reduce staffing expenditure. Time released may be used for additional clinical work, absorbed by other tasks or offset by new verification and oversight requirements.
 
-Potential effects include task automation, decision support, changes in professional responsibilities and the need for new technical skills.
+The distinction between AI-assisted and autonomous systems is important. In assisted systems, a healthcare professional remains involved in interpreting or acting on the AI output. Autonomous systems may perform a defined task without routine human interpretation at that stage, although governance and escalation arrangements remain necessary.
 
-The consequences may vary by profession, clinical setting and implementation model.
+Workforce evaluation should therefore consider task allocation, training, workload, professional responsibility, clinical oversight and the use of time released.
 
-AI may complement professional judgement in some circumstances while creating risks of over-reliance, deskilling or reduced professional autonomy in others.
+## 2.6 Trust in AI-assisted decisions
 
-The relevant research question is not simply whether AI replaces or supports workers, but how the introduction of AI changes the organisation and quality of clinical work.
+Trust is an important factor in the adoption and use of clinical AI.
 
-## 3.5 Human trust in AI-assisted healthcare
+Tun et al. (2025) review healthcare workers' trust in AI-based clinical decision-support systems. Their work identifies themes including transparency, training, familiarity, usability, reliability, credibility, ethics, human-centred design and professional autonomy.
 
-Trust is an important condition for the adoption of clinical AI.
+These themes indicate that trust is shaped by technical and organisational factors. A system's performance must be supported by appropriate validation and communication. Healthcare professionals also need to understand its intended purpose and limitations.
 
-Tun et al. (2025) reviewed healthcare workers' trust in AI-based clinical decision support systems. Their review identified factors including transparency, familiarity, usability, reliability, credibility, validation, ethics and professional autonomy.
+Trust should not be interpreted as unconditional acceptance. Appropriate reliance involves using the system within its validated scope and recognising when additional review is required.
 
-Trust may be influenced by:
+Patient trust is also relevant. Patients may reasonably wish to understand whether AI contributes to decisions concerning their care, what role professionals retain and how information is handled.
 
-- Perceived accuracy.
-- Clinical validation.
-- Transparency.
-- Explainability.
-- Usability.
-- Training.
-- Human oversight.
-- Accountability.
-- Compatibility with clinical workflows.
-- Professional experience.
+## 2.7 Institutional context and implementation
 
-Trust should be appropriate to the system's actual capabilities and limitations.
+The consequences of AI adoption depend on the organisations responsible for implementation.
 
-Uncritical acceptance may create risks, while unjustified rejection may prevent the use of beneficial technologies.
+Relevant factors include digital infrastructure, staffing, procurement arrangements, service volumes, training, data quality, workflow design and organisational culture.
 
-## 3.6 Institutional differences
+Powis et al. (2026) present an implementation research framework that synthesises barriers and facilitators across multiple domains, including design and development, organisational culture, deployment, quality, safety and equity.
 
-The outcomes of healthcare AI adoption may depend on the organisations and systems in which technologies are introduced.
+Such frameworks are useful for identifying implementation conditions, but they should not be mistaken for direct estimates of economic impact.
 
-Relevant factors include:
+An organisation with established digital infrastructure and adequate technical support may face different implementation costs from an organisation that needs substantial new investment. Differences in workforce capacity and patient pathways may also influence realised benefits.
 
-- Digital infrastructure.
-- Workforce availability.
-- Organisational culture.
-- Leadership.
-- Procurement.
-- Clinical workflow.
-- Data quality.
-- Regulation.
-- Reimbursement.
-- Population characteristics.
-- Implementation capacity.
+## 2.8 Governance, ethics and equity
 
-Powis et al. (2026) developed an implementation research framework synthesising barriers and facilitators across multiple domains.
+The World Health Organization's guidance on ethics and governance of AI for health identifies the importance of human rights, accountability and responsible oversight.
 
-This supports the view that implementation should be examined as a complex organisational process rather than a simple technology purchase.
+NICE's Evidence Standards Framework provides a separate UK evidence-assessment context for digital health technologies. These frameworks have different purposes and should not be treated as substitutes for applicable legal or regulatory requirements.
 
-## 3.7 Policy and governance
+Equity is an important consideration. Performance may vary across population groups and clinical settings. Access to AI-supported services may be influenced by geography, infrastructure and organisational capacity.
 
-Healthcare AI requires appropriate governance throughout its development, deployment and use.
+An aggregate economic benefit does not necessarily mean that benefits and risks are distributed fairly. Distributional considerations should therefore form part of the evaluation.
 
-The World Health Organization's guidance on ethics and governance of AI for health emphasises human rights, human autonomy, safety, transparency and accountability.
+## 2.9 Research gap
 
-In the UK, NICE's Evidence Standards Framework for Digital Health Technologies provides a framework for evaluating evidence relating to digital health technologies.
+The literature provides evidence that some AI applications may offer economic and clinical benefits. However, several limitations remain relevant to the present project.
 
-These frameworks are relevant to the assessment of effectiveness, safety, economic impact and implementation requirements.
+First, economic evaluations differ in their methods and assumptions. Second, implementation and maintenance costs may not be fully reported. Third, diagnostic performance does not necessarily translate into improved long-term outcomes. Fourth, evidence from other healthcare systems may not transfer directly to NHS England. Finally, workforce, trust and equity outcomes are not consistently represented in economic models.
 
-Governance should also address the allocation of responsibility when AI recommendations contribute to clinical decisions.
-
-## 3.8 Equity and distributional effects
-
-The economic evaluation of AI should consider how benefits and risks are distributed.
-
-An intervention may improve average performance while producing unequal outcomes across population groups.
-
-Potential sources of inequality include differences in data representation, access to technology, digital literacy, healthcare availability and underlying disease prevalence.
-
-The research should therefore examine whether AI adoption could widen or reduce existing health inequalities.
-
-## 3.9 Literature review synthesis
-
-The initial literature suggests that the economic and clinical effects of healthcare AI are conditional rather than automatic.
-
-Economic value depends on the relationship between implementation costs, service resources and outcomes.
-
-Productivity effects depend on the way released capacity is used.
-
-Trust depends on technical reliability, human factors and organisational arrangements.
-
-Institutional differences influence whether evidence can be transferred between settings.
-
-Policy and governance determine whether technologies can be introduced safely and sustainably.
-
-The research therefore requires an integrated analytical framework.
+This project addresses these issues through an integrated secondary research framework and a focused diabetic retinopathy case study. Its purpose is to clarify the evidence required for a defensible assessment, not to claim that existing evidence establishes a universal economic case for healthcare AI.
 
 ---
 
-# 4. Research Methodology
+# 3. Methodology
 
-## 4.1 Research design
+## 3.1 Research design
 
-This project adopts an independent secondary-research design.
+This project uses independent secondary research. It combines structured literature identification, evidence mapping, critical appraisal, comparative synthesis and the development of an economic evaluation framework.
 
-It combines:
+The study does not recruit participants, conduct interviews or surveys, undertake clinical interventions, access identifiable patient records or collect new clinical data.
 
-1. Structured literature review.
-2. Comparative evidence synthesis.
-3. Critical appraisal of published studies.
-4. Analysis of official policy and guidance.
-5. Economic framework development.
-6. Transparent illustrative or evidence-based economic modelling.
+The principal geographical context is NHS England. International studies are included where they contribute relevant evidence, but their transferability is assessed rather than assumed.
 
-The research does not involve primary patient recruitment, clinical experiments, direct healthcare interventions or access to identifiable patient records.
+The project is a structured independent evidence review. It is not presented as a registered systematic review or as a formal health technology assessment conducted by an authorised institution.
 
-## 4.2 Geographical scope
+## 3.2 Evidence identification
 
-NHS England is the principal geographical and institutional reference point.
+The evidence base includes:
 
-International studies will be included where they provide relevant evidence concerning clinical performance, economic evaluation, implementation or governance.
-
-International results will not automatically be treated as applicable to NHS England.
-
-Differences in healthcare systems, costs, populations, clinical pathways and institutional structures will be considered.
-
-## 4.3 Sources of evidence
-
-The research uses the following categories of sources:
-
-- Peer-reviewed academic journal articles.
-- Systematic reviews and meta-analyses.
-- Health economic evaluations.
-- Clinical validation studies.
-- NICE guidance.
-- NHS England publications.
-- UK government publications.
+- Peer-reviewed systematic reviews and economic evaluations.
+- Clinical diagnostic accuracy studies.
+- Published implementation and workforce research.
+- NHS pathway and service documentation.
+- NICE digital health evidence guidance.
 - World Health Organization guidance.
-- Relevant international policy and research publications.
+- Published healthcare cost and screening statistics.
 
-## 4.4 Search strategy
+Search terms and screening principles are documented in the project's literature search strategy and research protocol.
 
-Searches are organised around the research questions and relevant concepts.
+Sources are recorded in structured registers to support traceability. The registers distinguish preliminary records from sources that have undergone detailed verification.
 
-Examples include:
+## 3.3 Evidence selection and appraisal
 
-- Artificial intelligence AND healthcare economics.
-- Artificial intelligence AND cost-effectiveness.
-- Artificial intelligence AND healthcare productivity.
-- AI AND workforce AND clinical decision-making.
-- AI AND trust AND healthcare professionals.
-- AI AND implementation AND healthcare organisations.
-- AI AND reimbursement AND governance.
-- Artificial intelligence AND diabetic retinopathy screening.
-- Diabetic retinopathy AND economic evaluation.
-- Automated retinal grading AND diagnostic accuracy.
+Sources are considered according to relevance, methodological transparency, publication type, population, clinical setting and applicability to the research questions.
 
-Searches are intended to identify relevant evidence rather than to imply that every published study has been included.
+Systematic reviews, primary clinical studies, economic evaluations and policy documents are not treated as equivalent evidence types.
 
-The source register records the bibliographic information and relevance of identified studies.
+The appraisal considers:
 
-## 4.5 Inclusion criteria
+1. Research design and data source.
+2. Population and setting.
+3. Comparator and outcome definitions.
+4. Time horizon and economic perspective, where relevant.
+5. Statistical and modelling assumptions.
+6. Missing data and uncertainty.
+7. Potential conflicts of interest.
+8. Transferability to NHS England.
 
-Studies may be included where they:
+Abstract-level information is used only for preliminary evidence mapping. Detailed numerical inputs require verification against the full publication and its supplementary material where available.
 
-- Examine AI applications in healthcare.
-- Report economic, clinical, organisational or workforce outcomes.
-- Evaluate implementation or governance.
-- Examine professional or patient trust.
-- Provide relevant policy or health technology assessment evidence.
-- Contain sufficient methodological information for appraisal.
-- Provide evidence relevant to the research questions.
+## 3.4 Evidence synthesis
 
-## 4.6 Exclusion criteria
+Evidence is organised around six research questions: economic value, costs, workforce and human judgement, trust, institutional differences, and policy and governance.
 
-Studies may be excluded where they:
+The synthesis distinguishes:
 
-- Do not concern healthcare.
-- Do not examine AI or an identifiable AI-assisted application.
-- Provide insufficient information to establish relevance.
-- Duplicate another included record.
-- Are unsupported promotional claims.
-- Make claims without a sufficiently identifiable evidence base.
+- Observed findings reported by primary studies.
+- Results generated by economic models.
+- Conclusions drawn by systematic reviews.
+- Policy and professional guidance.
+- Interpretive conclusions developed by this project.
 
-Exclusion decisions should be documented.
+This distinction is maintained to avoid presenting modelled projections or policy recommendations as observed clinical outcomes.
 
-## 4.7 Evidence extraction
+## 3.5 Case study selection
 
-For each included study, relevant information includes:
+Diabetic retinopathy screening is used as a focused case study because it provides a defined screening pathway and a body of published research on AI-supported and autonomous image assessment.
 
-- Authors.
-- Publication year.
-- Title.
-- Journal.
-- Country or setting.
-- Study design.
-- Population.
-- AI application.
-- Comparator.
-- Economic perspective.
-- Time horizon.
-- Outcomes.
-- Main findings.
-- Limitations.
-- Funding and conflicts of interest, where reported.
-- Transferability to NHS England.
+The case study examines:
 
-## 4.8 Critical appraisal
+- The NHS screening pathway.
+- Diagnostic performance evidence.
+- Referral and follow-up implications.
+- Potential workforce and service effects.
+- Implementation and operating costs.
+- Economic evaluation requirements.
+- Transferability of international studies.
 
-Studies will be appraised according to their research design.
+The case study is an analytical application of published evidence. It is not an evaluation of a live NHS AI deployment.
 
-Relevant considerations include:
+## 3.6 Economic evaluation framework
 
-- Appropriateness of the study design.
-- Population representativeness.
-- Comparator selection.
-- Validity of outcome measures.
-- Completeness of cost reporting.
-- Transparency of assumptions.
-- Treatment of uncertainty.
-- Potential bias.
-- Generalisability.
-- Funding and conflicts of interest.
+The project develops a framework for comparing a conventional screening pathway with an AI-supported alternative.
 
-A favourable conclusion from a published study will not automatically be interpreted as strong evidence.
+The intended model structure considers:
 
-## 4.9 Evidence synthesis
+- A defined population.
+- A clearly specified comparator.
+- A stated economic perspective.
+- A defined time horizon.
+- Diagnostic classifications.
+- Subsequent pathway consequences.
+- Relevant costs.
+- Relevant health outcomes.
+- Uncertainty and scenario analysis.
 
-Evidence will be synthesised thematically according to the six research questions.
+The model requires compatible, evidence-supported inputs before substantive calculations can be performed.
 
-The analysis will distinguish:
+Where data are missing, the project will report the gap and its implications. Missing values will not be silently replaced with zero or unsupported assumptions.
 
-- Observed results.
-- Modelled estimates.
-- Author interpretations.
-- Illustrative assumptions.
-- Evidence gaps.
+## 3.7 Data sources and management
 
-Studies with substantially different populations, interventions or methods will not be combined as though they measured the same outcome.
+The project uses published and appropriately reusable secondary information. Source details, extraction decisions, data definitions and limitations are documented in the repository.
 
-## 4.10 Research ethics and data protection
+No identifiable patient data, confidential organisational records or restricted personal information are included in the project.
 
-The research uses secondary sources and published aggregate information.
+Raw data and files subject to access restrictions are not committed to the public repository. Copyright and licensing conditions are considered before reproducing data, figures or substantial source material.
 
-No identifiable patient records or confidential clinical information will be collected.
+## 3.8 Reproducibility
 
-No direct contact with patients or healthcare professionals is planned.
+Analytical scripts are maintained in the `src/` directory. Input definitions and data limitations are documented under `data/documentation/`.
 
-Public availability does not automatically establish permission to reproduce copyrighted material. Source licensing and reuse conditions will be respected.
+The project uses Python and commonly available open-source packages for data validation, analysis and visualisation.
+
+Scripts distinguish data validation from substantive economic modelling. A successful software test does not establish that the underlying empirical inputs are accurate or that an economic conclusion is valid.
+
+## 3.9 Ethical considerations
+
+The project is an independent secondary research exercise. It does not involve human participants, direct clinical activity or identifiable patient data.
+
+The analysis aims to represent published evidence accurately, acknowledge uncertainty and avoid unsupported claims. It does not provide medical or legal advice, certify regulatory compliance or imply institutional endorsement.
+
+## 3.10 Methodological limitations
+
+The project is limited by the availability, quality and transferability of published evidence.
+
+Potential limitations include incomplete reporting of costs, differences between study populations, heterogeneous outcome measures, reliance on modelled projections and limited NHS-specific data.
+
+The project is not a registered systematic review and should not be described as one. It is a structured independent evidence review with transparent documentation of its methods and limitations.
 
 ---
 
-# 5. Analytical Framework
+# 4. Analytical Framework
 
-## 5.1 Economic value framework
+## 4.1 Economic value
 
-Economic value will be examined through the relationship between:
+Economic value will be examined through the relationship between total costs, incremental costs, healthcare resource use, clinical outcomes, quality of life, productivity, opportunity costs and uncertainty.
 
-- Total costs.
-- Incremental costs.
-- Healthcare resource use.
-- Clinical outcomes.
-- Quality of life.
-- Productivity.
-- Opportunity costs.
-- Uncertainty.
+The analysis distinguishes:
 
-The analysis will distinguish cost savings from cost-effectiveness and budget impact.
+- **Cost-saving:** a reduction in expenditure compared with a defined alternative.
+- **Cost-effectiveness:** the relationship between incremental costs and incremental health outcomes.
+- **Budget impact:** the financial consequences of adopting an intervention within a specified budget and period.
+- **Productivity:** the relationship between resources used and healthcare outputs.
+- **Cost-benefit:** the comparison of costs and benefits expressed in monetary terms.
 
-## 5.2 Cost framework
+These concepts are related but are not interchangeable.
 
-Costs will be categorised as:
+## 4.2 Cost framework
+
+Costs are grouped into six broad categories.
 
 **Technology costs:** software, hardware, licences and computing infrastructure.
 
@@ -506,539 +374,488 @@ Costs will be categorised as:
 
 **Healthcare pathway costs:** appointments, referrals, diagnosis, treatment and follow-up.
 
-**Wider costs:** patient time, travel, informal care and lost income where evidence is available.
+**Wider costs:** patient time, travel, informal care and lost income, where evidence and the chosen perspective permit their inclusion.
 
-## 5.3 Benefits framework
+The analysis distinguishes initial expenditure from recurring expenditure and identifies missing cost information explicitly.
 
-Potential benefits will be examined across:
+## 4.3 Benefits framework
 
-- Clinical outcomes.
-- Diagnostic performance.
-- Service efficiency.
-- Productivity.
-- Workforce capacity.
-- Patient experience.
-- Access.
-- Quality of care.
+Potential benefits are examined across clinical outcomes, diagnostic performance, service efficiency, productivity, workforce capacity, patient experience, access and quality of care.
 
-The analysis will not assume that a measured technical improvement necessarily creates a corresponding clinical or economic benefit.
+A measured technical improvement is not automatically interpreted as a corresponding clinical or economic benefit.
 
-## 5.4 Productivity framework
+## 4.4 Productivity framework
 
-Productivity will be considered using inputs and outputs.
+Productivity is considered through the relationship between inputs and outputs.
 
-Relevant inputs include staff time, equipment, technology and expenditure.
+Relevant inputs include staff time, equipment, technology and expenditure. Relevant outputs include completed assessments, diagnostic decisions, referrals and other defined healthcare activities.
 
-Relevant outputs include completed assessments, diagnostic decisions, referrals and other defined healthcare activities.
+Released staff time is reported separately from cash-releasing savings. A productivity claim requires evidence of how released resources are used.
 
-Released staff time will be reported separately from cash-releasing savings.
+## 4.5 Workforce framework
 
-## 5.5 Workforce framework
+The analysis considers task allocation, professional autonomy, training requirements, workload, clinical oversight, decision responsibility, skills and potential changes in professional roles.
 
-The analysis will consider:
+## 4.6 Human trust framework
 
-- Task allocation.
-- Professional autonomy.
-- Training requirements.
-- Workload.
-- Clinical oversight.
-- Decision responsibility.
-- Skills.
-- Potential changes in professional roles.
-
-## 5.6 Human trust framework
-
-Trust will be examined in relation to:
-
-- Reliability.
-- Validation.
-- Transparency.
-- Explainability.
-- Usability.
-- Familiarity.
-- Training.
-- Accountability.
-- Human oversight.
-- Professional autonomy.
+Trust is examined in relation to reliability, validation, transparency, explainability, usability, familiarity, training, accountability, human oversight and professional autonomy.
 
 The objective is to identify the conditions supporting appropriate trust rather than to assume that greater trust is always desirable.
 
-## 5.7 Institutional context framework
+## 4.7 Institutional context framework
 
-The analysis will consider:
+The analysis considers organisational readiness, digital infrastructure, leadership, workforce capacity, data governance, procurement, clinical workflows, implementation support and monitoring.
 
-- Organisational readiness.
-- Digital infrastructure.
-- Leadership.
-- Workforce capacity.
-- Data governance.
-- Procurement.
-- Clinical workflows.
-- Implementation support.
-- Monitoring and evaluation.
+## 4.8 Reimbursement and policy framework
 
-## 5.8 Reimbursement and policy framework
+The research examines procurement, reimbursement arrangements, budget impact, health technology assessment, evidence requirements, regulatory considerations, accountability and public-sector adoption.
 
-The research will examine:
+## 4.9 Equity and distribution framework
 
-- Procurement.
-- Reimbursement arrangements.
-- Budget impact.
-- Health technology assessment.
-- Evidence requirements.
-- Regulatory considerations.
-- Accountability.
-- Public-sector adoption.
+The analysis considers potential differences across population groups, age groups, geographic areas, socioeconomic circumstances and healthcare organisations.
 
-## 5.9 Equity and distribution framework
-
-The research will examine potential differences in outcomes across:
-
-- Population groups.
-- Age groups.
-- Geographic areas.
-- Socioeconomic circumstances.
-- Healthcare organisations.
-- Levels of digital access.
-
-Where evidence is unavailable, this limitation will be recorded.
+Where the evidence does not permit a reliable distributional assessment, the limitation is reported rather than concealed.
 
 ---
 
-# 6. Case Study: AI-Assisted Diabetic Retinopathy Screening
+# 5. Diabetic Retinopathy Screening Case Study
 
-## 6.1 Rationale for the case study
+## 5.1 Case study rationale
 
-Diabetic retinopathy screening provides a focused application through which the economic and institutional implications of AI-assisted healthcare can be examined.
+Diabetic retinopathy screening provides a focused context for examining the economic implications of AI in healthcare.
 
-The screening pathway involves the acquisition and assessment of retinal images to identify signs of diabetic eye disease.
+Screening involves identifying individuals who may require further assessment or treatment. AI-supported image analysis may change the interpretation of retinal images, the allocation of professional tasks and the number of patients referred for further assessment.
 
-AI systems can analyse retinal images and classify whether further assessment or referral may be required.
+These changes may have consequences for diagnostic performance, staffing, service capacity, patient pathways and expenditure.
 
-The application is relevant because published studies have examined diagnostic accuracy and economic evaluation in this area.
+The case study is intended to examine the requirements for a defensible economic assessment. It does not claim that AI has already produced a measured economic benefit in NHS England.
 
-## 6.2 Case-study research question
+## 5.2 NHS pathway context
 
-What are the potential economic, clinical and organisational consequences of using AI-assisted diabetic retinopathy screening compared with conventional human grading, and under what conditions might the findings be relevant to NHS England?
+The NHS diabetic eye screening pathway provides the institutional context for the case study.
 
-## 6.3 Comparator
+A screening service involves more than image interpretation. It includes patient invitation and attendance, image acquisition, grading or assessment, communication of results, referral where indicated and appropriate follow-up.
 
-The principal comparator is conventional human grading of retinal images.
+The economic implications of AI therefore depend on how its use affects the complete pathway.
 
-Where a published study uses another comparator, such as an alternative screening pathway, this will be recorded separately.
+A system that improves initial image processing may still create additional costs if it increases referrals, requires repeated imaging or generates additional clinical review. Conversely, a system that supports appropriate prioritisation may help service capacity if the benefits are realised in routine practice.
 
-## 6.4 NHS England screening pathway
+The project uses NHS pathway documentation to establish the service context. Published screening coverage statistics are treated as descriptive service information, not as evidence that AI caused changes in screening activity or outcomes.
 
-The NHS Diabetic Eye Screening Programme provides the institutional context for the case study.
+## 5.3 AI-assisted and autonomous screening
 
-The pathway includes:
+Two broad operational arrangements are relevant.
 
-1. Identification of eligible individuals.
-2. Invitation to screening.
-3. Attendance.
-4. Retinal image acquisition.
-5. Image grading.
-6. Referral or surveillance decisions.
-7. Further assessment where required.
-8. Follow-up and subsequent clinical care.
+**AI-assisted screening** involves AI providing information or an assessment that is used by a healthcare professional as part of the decision process.
 
-The economic consequences of AI may extend beyond the grading activity itself.
+**Autonomous screening** involves a system producing a defined screening result without routine human interpretation at that stage, subject to its intended use and applicable governance arrangements.
 
-For example, changes in diagnostic classification may influence referral numbers, repeat imaging, surveillance and clinical appointments.
+These arrangements have different implications for workforce allocation, oversight, accountability, training and costs.
 
-An evaluation that examines only grading costs may therefore fail to capture the resources required across the complete pathway.
+The economic comparison must therefore define the specific AI configuration being evaluated. Treating all AI-enabled screening systems as a single intervention would risk combining technologies with different functions and resource requirements.
 
-## 6.5 Diagnostic accuracy
+## 5.4 Diagnostic performance
 
-Diagnostic accuracy is an important determinant of the potential economic consequences of AI-assisted screening.
+Diagnostic accuracy is central to the case study.
 
-Relevant measures include:
+Sensitivity measures the proportion of people with the target condition who are correctly identified by a test. Specificity measures the proportion of people without the target condition who are correctly classified.
 
-- Sensitivity.
-- Specificity.
-- Positive predictive value.
-- Negative predictive value.
-- Ungradable image rates.
+These measures should be interpreted alongside the population, disease definition, reference standard, imaging procedure and screening configuration.
 
-Sensitivity and specificity influence the number of people correctly identified and incorrectly classified.
+The preliminary literature extraction identifies published diagnostic studies and reviews, including work by Tahir et al. (2025) and Ipp et al. (2021). However, numerical estimates extracted from abstracts should not be treated as final model inputs until their definitions and results have been checked against the complete publications.
 
-False-positive classifications may result in unnecessary assessments and additional resource use.
+A comparison of diagnostic performance also requires consistent outcome definitions. Estimates from different studies should not be combined merely because they use the terms sensitivity and specificity.
 
-False-negative classifications may delay the identification of disease and create potential clinical harm.
+## 5.5 Consequences of diagnostic errors
 
-The consequences of these errors are not equivalent.
+False-positive results may lead to additional assessments, referrals, investigations and patient concern.
 
-Results must also be interpreted in relation to the population, imaging conditions, disease definition and reference standard used in the original study.
+False-negative results may delay further assessment and potentially affect patient outcomes.
 
-## 6.6 International economic evidence
+The economic consequences depend on the number of people screened, disease prevalence, test performance, referral thresholds and the subsequent clinical pathway.
 
-Published economic evaluations provide evidence about the potential relationship between diagnostic performance, costs and health outcomes.
+A model should therefore distinguish true positives, false positives, true negatives and false negatives. Each classification must be connected to an appropriate pathway consequence and, where evidence permits, a relevant cost and outcome.
 
-Wang et al. (2024) examined economic evaluation scenarios for AI-assisted diabetic retinopathy screening in a Chinese national screening context.
+## 5.6 Attendance and follow-up
 
-Their analysis illustrates that the AI configuration with the highest diagnostic accuracy is not necessarily the configuration with the greatest economic value.
+The benefits of screening depend partly on whether patients attend and complete the subsequent pathway.
 
-Leigh et al. (2025) reviewed economic evaluations of AI-enabled diabetic retinopathy screening and identified methodological variation and the importance of context-specific assumptions.
+A technically accurate system cannot produce its intended population-level benefit if screening attendance is low, images are ungradable, referrals are not completed or treatment access is delayed.
 
-These studies provide useful evidence for model design.
+Attendance, repeat testing, referral completion and follow-up should therefore be considered alongside diagnostic performance.
 
-However, their costs and results should not be directly transferred to NHS England without appropriate adaptation.
+Descriptive changes in national screening coverage do not independently establish an AI intervention effect. Causal conclusions would require an appropriate study design and evidence capable of distinguishing the effects of AI from other changes in service delivery.
 
-## 6.7 Economic perspective
+## 5.7 Economic evaluation requirements
 
-The principal proposed perspective is that of the healthcare system.
+A comparison between conventional screening and AI-supported screening requires a defined population, comparator, perspective, time horizon, outcomes and cost structure.
 
-A societal perspective may also be considered where published evidence supports the inclusion of patient travel, time, lost income or informal care.
+The model should consider:
 
-## 6.8 Proposed economic outcomes
+- Screening activity and attendance.
+- Disease prevalence in the defined population.
+- AI and comparator diagnostic performance.
+- Image acquisition and processing costs.
+- Technology procurement and licensing.
+- Infrastructure and integration.
+- Training and maintenance.
+- Clinical review and oversight.
+- Referrals and follow-up.
+- The consequences of diagnostic errors.
+- Relevant patient outcomes.
+- Uncertainty in all important inputs.
 
-The case study may examine:
+A model should not calculate an incremental cost-effectiveness ratio unless the relevant incremental costs and health outcomes have been defined and supported by appropriate evidence.
 
-- Total screening costs.
-- Cost per screening.
-- AI implementation expenditure.
-- Human grading expenditure.
-- Referral activity.
-- Repeat imaging.
-- Workforce time.
-- Healthcare resource use.
-- Health outcomes.
-- Quality-adjusted life-years, where suitable evidence is available.
-- Incremental cost-effectiveness.
+## 5.8 Current case study evidence position
 
-## 6.9 Model limitations
+The preliminary evidence base provides useful contextual information about diabetic retinopathy screening, diagnostic accuracy and published economic evaluations.
 
-International studies may differ from NHS England in their healthcare systems, population characteristics, workforce costs and screening pathways.
+However, the project has not yet established a complete set of verified NHS-specific AI acquisition, implementation, maintenance, workforce and pathway costs.
 
-Long-term economic projections also depend on assumptions about disease progression, treatment, follow-up and health outcomes.
+Some diagnostic estimates also require full-text verification.
 
-The model will therefore distinguish between observed data and modelled results.
+Consequently, this manuscript does not report a definitive NHS-specific incremental cost-effectiveness estimate or claim that AI screening is cost-saving in England.
+
+This is an evidence limitation, not a finding that AI has no economic value.
 
 ---
 
-# 7. Economic Model Design
+# 6. Results and Evidence Synthesis
 
-## 7.1 Objective
+## 6.1 Overview
 
-The economic model is intended to compare AI-assisted diabetic retinopathy screening with conventional human grading.
+The project's preliminary evidence register identifies research and policy material relevant to all six research questions.
 
-It will examine the potential consequences of differences in technology costs, workforce resources, diagnostic performance and healthcare pathway activity.
+The evidence includes systematic reviews of economic evaluations and healthcare worker trust, a review of diabetic retinopathy screening economics, clinical diagnostic studies, NHS screening pathway information and international and UK policy guidance.
 
-## 7.2 Model structure
+The evidence base is heterogeneous. It includes different research designs, technologies, populations and healthcare settings. Consequently, the sources cannot be combined into a single numerical estimate of the economic value of healthcare AI.
 
-The proposed model will follow the screening pathway:
+The findings below represent a structured synthesis of the evidence identified. They should not be interpreted as the results of a completed full-text systematic review or as new empirical measurements.
 
-1. Eligible population.
-2. Screening attendance.
-3. Image acquisition.
-4. AI or human grading.
-5. Screening classification.
-6. Referral or no referral.
-7. Follow-up attendance.
-8. Diagnosis and treatment where applicable.
-9. Longer-term health outcomes where supported by evidence.
+## 6.2 Economic value
 
-## 7.3 Cost inputs
+Published reviews identify healthcare AI applications for which favourable economic outcomes have been reported.
 
-The model will seek evidence for:
+However, the economic conclusions of individual studies depend on their assumptions, comparators, time horizons and cost definitions. A favourable result in one clinical application does not establish that other AI technologies will produce the same result.
 
-- Screening costs.
-- Human grading costs.
-- AI software costs.
-- Hardware.
-- Integration.
-- Training.
-- Maintenance.
-- Quality assurance.
-- Referral.
-- Surveillance.
-- Further clinical assessment.
+The preliminary evidence therefore supports the possibility of economic value, but not a universal claim that AI reduces healthcare expenditure.
 
-## 7.4 Clinical inputs
+## 6.3 Costs and implementation requirements
 
-Potential clinical inputs include:
+The evidence and policy frameworks identify multiple cost categories relevant to AI adoption.
 
-- Sensitivity.
-- Specificity.
-- Image gradability.
-- Referral rates.
-- Follow-up attendance.
-- Disease prevalence.
-- Relevant health outcomes.
+These include software acquisition, system integration, infrastructure, training, maintenance, monitoring and clinical oversight.
 
-These parameters must be drawn from appropriately matched evidence.
+The project has not established a complete set of verified NHS-specific acquisition and operating costs for AI-enabled diabetic retinopathy screening. Accordingly, a definitive total-cost estimate is not reported.
 
-## 7.5 Economic outcomes
+The absence of a verified cost is treated as an evidence gap rather than a zero-cost assumption.
 
-Where sufficient data are available, the model will estimate:
+## 6.4 Diagnostic performance and clinical outcomes
 
-- Total costs.
-- Incremental costs.
-- Changes in resource use.
-- Potential budget impact.
-- Cost-effectiveness.
-- Cost-utility.
+Published diagnostic studies provide evidence concerning the performance of AI systems in diabetic retinopathy screening.
 
-The incremental cost-effectiveness ratio may be calculated where valid incremental outcome estimates are available.
+However, estimates differ according to screening configuration, imaging conditions, population, disease definition and reference standard.
 
-## 7.6 Uncertainty analysis
+Diagnostic accuracy should be interpreted alongside the consequences of false-positive and false-negative results and the performance of the subsequent clinical pathway.
 
-Uncertainty may be examined through:
+The preliminary extraction of diagnostic estimates is not considered sufficient for final economic modelling. Full-text verification is required before the figures can be used as definitive inputs.
 
-- Alternative technology prices.
-- Different diagnostic performance estimates.
-- Alternative screening volumes.
-- Different attendance assumptions.
-- Workforce cost scenarios.
-- Alternative implementation costs.
-- Alternative time horizons.
+## 6.5 Screening pathway and attendance
 
-The analysis will not report unsupported point estimates.
+NHS diabetic eye screening operates through a defined service pathway. Published screening coverage statistics provide descriptive information about participation and service activity.
 
-## 7.7 Model transparency
+Changes in screening coverage over time cannot, by themselves, establish that AI caused improvements or deterioration. Other changes in service delivery, population characteristics and external conditions may contribute.
 
-Each numerical input will have a documented source, unit, definition and price year where relevant.
+The evidence therefore supports treating attendance and follow-up as important pathway variables, while avoiding unsupported causal attribution.
 
-Illustrative assumptions will be labelled clearly.
+## 6.6 Workforce and professional judgement
 
-Missing evidence will remain visible in the parameter register.
+The literature identifies potential effects of AI on task allocation, professional workflows and clinical decision-making.
 
----
+Potential efficiency improvements must be distinguished from measurable productivity or financial savings. Additional verification, oversight, training and technical support may offset some of the time released by automation.
 
-# 8. Results
+The evidence identified does not establish a generalisable NHS estimate of net workforce time saved by AI-enabled diabetic retinopathy screening.
 
-## 8.1 Current status of evidence collection
+## 6.7 Trust and human oversight
 
-The project has established an initial evidence register and extraction framework covering economic evaluations, trust, implementation, governance and diabetic retinopathy screening.
+Published research identifies technical and organisational factors associated with healthcare workers' trust in AI-based decision-support systems.
 
-The case-study evidence includes published economic evaluations and diagnostic accuracy studies, alongside official NHS pathway and policy sources.
+Transparency, usability, training, reliability, validation and professional autonomy are relevant themes.
 
-The evidence collection and appraisal process remains in progress.
+These findings support the importance of appropriate human oversight and calibrated reliance. They do not establish that all professionals or patients have the same level of trust or that trust alone guarantees safe use.
 
-## 8.2 Economic evidence
+## 6.8 Institutional differences
 
-**To be completed following full extraction and appraisal.**
+Implementation frameworks and comparative economic studies indicate that outcomes depend on organisational and healthcare-system context.
 
-This section will report the findings of the included economic evaluations, distinguishing between cost-effectiveness, cost-utility, cost savings and budget impact.
+Digital infrastructure, workforce capacity, workflow design, procurement and governance may affect both costs and realised benefits.
 
-## 8.3 Clinical evidence
+International economic findings should therefore be interpreted in relation to the institutional conditions in which they were generated.
 
-**To be completed following further appraisal.**
+## 6.9 Governance and equity
 
-This section will summarise diagnostic accuracy evidence, including sensitivity, specificity, image gradability and differences between validation and real-world settings.
+WHO and NICE guidance provide relevant frameworks for considering ethical governance and evidence requirements for digital health technologies.
 
-## 8.4 NHS screening pathway evidence
+The project identifies equity as an important dimension of evaluation. However, the preliminary evidence base does not yet support a complete quantitative distributional analysis for NHS diabetic retinopathy screening.
 
-The descriptive screening coverage dataset provides contextual information about the English programme.
+## 6.10 Summary of evidence
 
-It does not establish the effect of AI adoption on screening coverage, clinical outcomes or expenditure.
+The preliminary evidence supports five broad observations:
 
-## 8.5 Economic model results
+1. Some healthcare AI applications have reported favourable economic results, but findings are context-specific.
+2. Implementation and ongoing costs are important and may be incompletely reported.
+3. Diagnostic accuracy is not equivalent to improved patient outcomes or cost-effectiveness.
+4. Workforce, trust and institutional factors influence the conditions under which AI may be used effectively.
+5. The evidence currently available in this project is insufficient to claim a definitive NHS-specific economic benefit for AI-enabled diabetic retinopathy screening.
 
-**Not yet available.**
-
-Numerical results will only be reported after the required parameters have been sourced, checked and entered into the model.
+These findings are provisional and should be updated following full-text source verification and completion of the final evidence audit.
 
 ---
 
-# 9. Discussion
+# 7. Discussion
 
-## 9.1 Economic value is conditional
+## 7.1 Principal interpretation
 
-Healthcare AI should not be assumed to generate economic value merely because it performs a task more quickly or achieves high technical accuracy.
+This project examines whether AI can improve healthcare efficiency and outcomes under particular economic, institutional and policy conditions.
 
-Its economic consequences depend on implementation costs, resource use, clinical outcomes and the wider care pathway.
+The evidence reviewed suggests that AI may offer economic and operational benefits in some applications. However, these benefits are conditional on the technology, population, implementation arrangements, clinical pathway and economic assumptions.
 
-## 9.2 Productivity and financial savings are different
+The central implication is that AI should be evaluated as part of the healthcare service in which it operates, rather than as an isolated technical product.
 
-A reduction in the time required to complete an activity may release staff capacity.
+## 7.2 Economic value requires a complete pathway perspective
 
-However, it does not necessarily reduce expenditure.
+A technology may improve one stage of a clinical pathway without reducing total expenditure.
 
-A healthcare organisation may use released capacity to undertake additional activity rather than reduce its workforce.
+For example, an AI screening system might reduce the resources required for initial image interpretation but increase referrals for confirmatory assessment. Whether the overall intervention generates value depends on the costs and outcomes of the complete pathway.
 
-Economic evaluations should therefore report capacity effects separately from financial savings.
+This reinforces the importance of defining the comparator, economic perspective and time horizon before calculating economic outcomes.
 
-## 9.3 Institutional context matters
+It also explains why the price of software or a reported reduction in processing time cannot independently establish cost-effectiveness.
 
-The effects of AI may vary according to organisational readiness, workforce capacity, data infrastructure and implementation arrangements.
+## 7.3 The importance of cost transparency
 
-Evidence from one healthcare system may not be directly applicable to another.
+Incomplete cost reporting creates uncertainty in economic evaluation.
 
-This is particularly important when applying international economic studies to NHS England.
+If infrastructure, training, maintenance or clinical oversight are omitted, an intervention may appear less expensive than it is in practice.
 
-## 9.4 Trust and human judgement
+The problem is not limited to the initial adoption period. Healthcare organisations may face recurring expenditure for software updates, technical support, quality monitoring and changes to clinical workflows.
 
-Healthcare AI requires appropriate human oversight and professional responsibility.
+Economic evaluations should make these components visible and explain how missing information is handled.
 
-Trust depends on system performance, transparency, usability, validation and organisational arrangements.
+## 7.4 Diagnostic accuracy and clinical consequences
 
-The objective should be appropriate reliance rather than unconditional acceptance.
+The diabetic retinopathy case study illustrates why diagnostic accuracy and economic value should be analysed separately.
 
-## 9.5 Clinical accuracy is not sufficient
+Sensitivity and specificity are important, but their economic consequences depend on prevalence, test configuration, referral thresholds and subsequent care.
 
-Diagnostic accuracy is an important part of evaluating screening technologies.
+A false-positive result may generate additional activity, while a false-negative result may delay assessment. Both can affect costs and patient outcomes.
 
-However, improved classification performance does not automatically establish improved patient outcomes or cost-effectiveness.
+The value of an AI system therefore depends on its interaction with the pathway and the consequences of its outputs.
 
-The full pathway, including referrals, follow-up and treatment, must be considered.
+## 7.5 Workforce effects and professional autonomy
 
-## 9.6 Governance and policy
+Automation may change the tasks undertaken by healthcare professionals, but the net effect on workforce productivity is uncertain.
 
-Safe and economically sustainable implementation requires effective governance.
+Time released from one activity may be used for additional patient care, transferred to other tasks or offset by new oversight responsibilities.
 
-This includes accountability, monitoring, quality assurance, data protection and appropriate clinical oversight.
+The distinction between AI-assisted and autonomous systems also affects professional responsibility. A system that supports a clinician's judgement creates different workflow and accountability questions from a system that produces a defined screening outcome without routine human interpretation.
 
-Policy and reimbursement arrangements also influence whether technologies can be adopted and maintained.
+The project therefore supports evaluating workforce effects through actual changes in service activity and resource use rather than relying on theoretical time savings.
 
-## 9.7 Equity
+## 7.6 Trust as an organisational condition
 
-The distribution of benefits and risks should be considered alongside average economic outcomes.
+Appropriate trust is a condition for responsible use, not a substitute for evidence.
 
-A technology may perform differently across population groups or healthcare settings.
+Healthcare professionals need to understand a system's intended purpose, limitations and validation. Patients should receive appropriate information about the role of AI in their care.
 
-Equity should therefore form part of the evaluation rather than being treated as a secondary consideration.
+Organisations also need processes for monitoring performance, identifying problems and escalating uncertain or inappropriate outputs.
 
----
+Trust should be calibrated to the evidence and the context in which the technology is used.
 
-# 10. Limitations
+## 7.7 Institutional transferability
 
-This research has several anticipated limitations.
+International studies can provide useful evidence about economic methods and potential implementation effects. However, their results may not transfer directly to NHS England.
 
-First, the evidence base may contain substantial methodological heterogeneity. Studies may differ in populations, AI applications, comparators, outcome measures and economic methods.
+Differences in reimbursement, workforce costs, screening organisation, infrastructure and patient pathways can materially affect results.
 
-Second, some economic evaluations rely on modelled assumptions rather than observed long-term outcomes.
+This is particularly relevant to the diabetic retinopathy case study. Economic estimates from another healthcare system should be treated as contextual evidence unless their assumptions can be adapted and justified for the NHS setting.
 
-Third, international evidence may not be directly transferable to NHS England.
+## 7.8 Governance and equity
 
-Fourth, AI implementation costs may be incompletely reported, particularly where commercial licensing and integration arrangements are not publicly available.
+Economic sustainability should not be considered separately from safety, accountability and equity.
 
-Fifth, evidence concerning productivity may not distinguish between released capacity and actual financial savings.
+A technology may appear economically favourable while producing uneven benefits or imposing additional burdens on particular population groups.
 
-Sixth, patient and professional trust may be measured using different methods, making comparisons difficult.
+Evaluation should therefore consider differences in diagnostic performance, access, referral patterns and the distribution of costs and benefits.
 
-Seventh, the use of published aggregate data limits the ability to investigate certain local organisational effects.
+Governance arrangements should also make responsibilities clear and provide appropriate human oversight.
 
-Finally, this is an independent research project and has not undergone formal academic peer review.
+## 7.9 Implications for the research questions
 
-These limitations will be considered when interpreting the findings.
+The evidence provides a basis for addressing all six research questions, but the strength of the conclusions differs.
 
----
+The possibility of economic value is supported by published evaluations, although NHS-specific value remains unestablished. Cost categories can be identified, but complete local cost inputs are unavailable. Workforce and trust findings are informed by published research, but cannot be translated into a universal quantitative estimate. Institutional and policy frameworks provide relevant analytical context, while distributional evidence remains incomplete.
 
-# 11. Policy Implications and Recommendations
+These differences should remain visible in the final interpretation.
 
-The recommendations below are provisional research considerations and will be refined after the evidence synthesis and economic analysis.
+## 7.10 Limitations
 
-## 11.1 Require transparent economic evaluation
+This project has several limitations.
 
-Healthcare AI should be assessed using transparent economic methods that consider implementation, maintenance and pathway costs.
+First, it relies on secondary evidence rather than new empirical data. Second, the evidence base includes heterogeneous study designs and healthcare settings. Third, some preliminary extractions require full-text verification. Fourth, complete NHS-specific implementation and operating costs have not been established. Fifth, the economic model cannot provide a definitive result without verified inputs.
 
-## 11.2 Distinguish productivity from savings
+The project is also an independent research exercise and has not been peer-reviewed or endorsed by an academic institution or healthcare organisation.
 
-Evaluations should distinguish between staff time released, additional activity undertaken and expenditure actually avoided.
+## 7.11 Overall discussion
 
-## 11.3 Strengthen real-world evaluation
+The evidence does not support a simple conclusion that AI is always economically beneficial or that it should be rejected because of its risks.
 
-Evidence should consider performance in operational healthcare settings, including image quality, workflow integration and follow-up.
-
-## 11.4 Maintain appropriate human oversight
-
-AI-assisted clinical decisions should have clearly defined responsibilities and escalation procedures.
-
-## 11.5 Improve implementation evidence
-
-Healthcare organisations should evaluate organisational readiness, training, integration and ongoing support requirements.
-
-## 11.6 Incorporate equity
-
-Evaluation should consider how benefits and risks are distributed across population groups.
-
-## 11.7 Improve reporting of costs
-
-Published studies should provide clearer information about licensing, infrastructure, training, integration and maintenance costs.
+A more defensible interpretation is that healthcare AI should be adopted and evaluated conditionally. Its value depends on whether clinical performance, implementation costs, workforce effects, organisational readiness, human oversight and distributional consequences are addressed together.
 
 ---
 
-# 12. Conclusion
+# 8. Recommendations
 
-Artificial intelligence has the potential to influence healthcare costs, productivity, clinical decision-making and patient outcomes. However, its economic and clinical value cannot be established through technical performance alone.
+## 8.1 Recommendations for healthcare organisations
 
-A meaningful evaluation must consider the complete healthcare pathway, including implementation, workforce requirements, referrals, follow-up, clinical outcomes and governance.
+Healthcare organisations considering AI adoption should:
 
-The research framework developed in this project brings together economic evaluation, human trust, institutional differences and policy considerations.
+1. Define the clinical purpose and intended use before procurement.
+2. Evaluate the technology against an appropriate existing-care comparator.
+3. Assess the full implementation and operating costs.
+4. Examine the effects on the complete clinical pathway.
+5. Provide appropriate training and professional oversight.
+6. Establish monitoring and escalation arrangements.
+7. Evaluate outcomes after implementation rather than relying exclusively on pre-deployment projections.
+8. Assess whether benefits and risks differ between patient groups.
+9. Make responsibilities for performance monitoring and incident management clear.
+10. Review whether the technology continues to provide value as costs, workflows and clinical requirements change.
 
-The diabetic retinopathy screening case study provides a focused application through which these issues can be examined in the context of NHS England and relevant international evidence.
+## 8.2 Recommendations for economic evaluation
 
-The final conclusions will depend on the quality and applicability of the evidence collected and the results of the completed economic analysis.
+Economic evaluations should:
 
-The central proposition of this research is that healthcare AI should be evaluated according to the value it demonstrably creates within a particular healthcare system, rather than on the assumption that automation or technical accuracy necessarily produces economic or clinical improvement.
+- State the economic perspective and time horizon.
+- Report direct and indirect costs where relevant.
+- Distinguish initial investment from recurring expenditure.
+- Explain how staff time and productivity are valued.
+- Connect diagnostic performance to pathway outcomes.
+- Report uncertainty and sensitivity analyses.
+- Distinguish observed evidence from modelled assumptions.
+- Avoid treating missing cost or outcome information as zero.
+- Consider budget impact separately from cost-effectiveness.
+- Examine distributional consequences where data permit.
+
+## 8.3 Recommendations for policy and governance
+
+Policy and governance arrangements should support:
+
+- Appropriate evidence requirements for the intended use.
+- Clear accountability and human oversight.
+- Transparency about system limitations.
+- Ongoing monitoring of safety and performance.
+- Appropriate information governance.
+- Consideration of equity and accessibility.
+- Sustainable procurement and reimbursement arrangements.
+- Clear processes for responding to errors and system changes.
+
+These recommendations are analytical proposals derived from the literature and guidance considered. They are not legal advice or a certification of compliance with any particular regulatory regime.
+
+## 8.4 Recommendations for future research
+
+Future research would benefit from:
+
+1. More complete reporting of AI acquisition and implementation costs.
+2. Evaluations using routine NHS service data where appropriate permissions and safeguards exist.
+3. Longer-term studies of patient outcomes.
+4. Research measuring actual workforce effects rather than theoretical time savings.
+5. Comparative studies across healthcare organisations.
+6. More consistent reporting of diagnostic performance across population groups.
+7. Greater attention to follow-up and referral completion.
+8. Transparent reporting of uncertainty and conflicts of interest.
+9. Economic evaluations that include maintenance and monitoring costs.
+10. Research examining patient and professional experiences using appropriate ethical and governance procedures.
+
+---
+
+# 9. Conclusion
+
+This independent research project examines the economic, institutional and policy conditions under which artificial intelligence may improve healthcare efficiency and outcomes.
+
+The evidence reviewed indicates that healthcare AI may offer value in some applications. However, economic and clinical benefits cannot be assumed from technical performance alone.
+
+The full consequences of implementation depend on acquisition and operating costs, clinical pathways, diagnostic errors, workforce changes, professional judgement, institutional readiness, governance and equity.
+
+The diabetic retinopathy screening case study illustrates the importance of considering these factors together. Published research provides useful evidence about diagnostic performance and economic modelling, but differences between healthcare systems and the availability of local cost and outcome data limit the conclusions that can be drawn for NHS England.
+
+The project does not claim a definitive NHS-specific cost-effectiveness result where verified inputs are unavailable. Instead, it identifies the evidence and analytical requirements necessary to support such an assessment.
+
+The overall conclusion is that healthcare AI can contribute to economic and clinical value when it is appropriately validated, implemented and monitored within a suitable healthcare system. Its value should be demonstrated through transparent evaluation of costs, outcomes, workforce consequences, human oversight and distributional effects.
+
+Responsible adoption therefore requires neither unquestioning enthusiasm nor blanket rejection, but careful assessment based on evidence, context and accountability.
 
 ---
 
 # References
 
-El Arab, R.A. and Al Moosa, Z. (2025). Systematic review of cost effectiveness and budget impact of artificial intelligence in healthcare. *npj Digital Medicine*, 8, 548. https://doi.org/10.1038/s41746-025-01722-y
+**Important:** This is a preliminary reference list. Bibliographic details, complete author lists, publication information and the exact findings relied upon must be checked against the original publications before the manuscript is treated as a final academic submission or publication.
 
-Ipp, E., Liljenquist, D., Bode, B., et al. (2021). Pivotal Evaluation of an Artificial Intelligence System for Autonomous Detection of Referrable and Vision-Threatening Diabetic Retinopathy. *JAMA Network Open*, 4(11), e2134254. https://doi.org/10.1001/jamanetworkopen.2021.34254
+1. El Arab, R. A., and Al Moosa (2025). *Systematic review of cost effectiveness and budget impact of artificial intelligence in healthcare*. npj Digital Medicine, 8, 548. https://doi.org/10.1038/s41746-025-01722-y
 
-Leigh, J., et al. (2025). Health Economic Considerations for the Implementation of Artificial Intelligence-Enabled Diabetic Retinopathy Screening: A Review. *Clinical & Experimental Ophthalmology*. https://doi.org/10.1111/ceo.70016
+2. Leigh, J., et al. (2025). *Health Economic Considerations for the Implementation of Artificial Intelligence-Enabled Diabetic Retinopathy Screening: A Review*. Clinical & Experimental Ophthalmology. https://doi.org/10.1111/ceo.70016
 
-National Institute for Health and Care Excellence (2021). *Evidence Standards Framework for Digital Health Technologies*. https://www.nice.org.uk/Media/Default/About/what-we-do/our-programmes/evidence-standards-framework/evidence-standards-framework-for-digital-health-technologies.pdf
+3. National Institute for Health and Care Excellence. *Evidence Standards Framework for Digital Health Technologies*. https://www.nice.org.uk/what-nice-does/digital-health/evidence-standards-framework-esf-for-digital-health-technologies
 
-NHS England (2024). *NHS Diabetic Eye Screening Pathway Standards*. https://www.gov.uk/government/publications/diabetic-eye-screening-programme-standards/nhs-diabetic-eye-screening-pathway-standards-from-1st-october-2024
+4. Powis, et al. (2026). *Framework for artificial intelligence implementation research in healthcare: synthesizing current evidence on barriers and facilitators*. npj Digital Medicine, 9, article 543. https://doi.org/10.1038/s41746-026-02705-3
 
-NHS England (2024). *Diabetic Eye Screening Care Pathway*. https://www.gov.uk/government/publications/diabetic-eye-screening-care-pathway/diabetic-eye-screening-des-care-pathway
+5. Tun, et al. (2025). *Trust in Artificial Intelligence-Based Clinical Decision Support Systems Among Health Care Workers: Systematic Review*. Journal of Medical Internet Research, 27, e69678. https://doi.org/10.2196/69678
 
-NHS England (2024). *2023/24 National Cost Collection Data Publication*. https://www.england.nhs.uk/publication/2023-24-national-cost-collection-data-publication/
+6. Wang, Y., et al. (2024). *Economic evaluation for medical artificial intelligence: accuracy vs. cost-effectiveness in a diabetic retinopathy screening case*. npj Digital Medicine. https://doi.org/10.1038/s41746-024-01032-9
 
-Powis, S., et al. (2026). Framework for artificial intelligence implementation research in healthcare: synthesizing current evidence on barriers and facilitators. *npj Digital Medicine*, 9, 543. https://doi.org/10.1038/s41746-026-02705-3
+7. World Health Organization (2021). *Ethics and governance of artificial intelligence for health: WHO guidance*. https://www.who.int/publications/i/item/9789240029200
 
-Tahir, et al. (2025). Artificial intelligence versus manual screening for the detection of diabetic retinopathy: a comparative systematic review and meta-analysis. https://pubmed.ncbi.nlm.nih.gov/40400628/
+8. Wu, et al. (2025). *Economic evaluation of AI-assisted technologies in healthcare: A systematic review*. Journal of Food and Drug Analysis, 33(4), 487–500. https://doi.org/10.38212/2224-6614.3570
 
-Tun, et al. (2025). Trust in Artificial Intelligence-Based Clinical Decision Support Systems Among Health Care Workers: Systematic Review. *Journal of Medical Internet Research*, 27, e69678. https://doi.org/10.2196/69678
+9. Ipp, E., et al. (2021). Autonomous artificial intelligence-based diabetic retinopathy screening research. **Full title, journal, volume, pages and DOI require verification against the original publication before final citation.**
 
-Uy, et al. (2023). Diagnostic test accuracy of artificial intelligence in screening for referable diabetic retinopathy in real-world settings: A systematic review and meta-analysis. https://pubmed.ncbi.nlm.nih.gov/37729122/
+10. Tahir, et al. (2025). Systematic review and meta-analysis of AI and manual diabetic retinopathy screening performance. **Full title, author list, journal and DOI require verification.**
 
-Wang, Y., et al. (2024). Economic evaluation for medical artificial intelligence: accuracy vs. cost-effectiveness in a diabetic retinopathy screening case. *npj Digital Medicine*. https://doi.org/10.1038/s41746-024-01032-9
+11. Uy, et al. (2023). Diagnostic performance research using multiple diabetic retinopathy datasets. **Full title, author list, journal and DOI require verification.**
 
-World Health Organization (2021). *Ethics and governance of artificial intelligence for health: WHO guidance*. https://www.who.int/publications/i/item/9789240029200
+12. Department of Health and Social Care. NHS diabetic eye screening coverage statistics. **Exact report title, publication date, tables and data definitions require verification before numerical citation.**
 
-Wu, et al. (2025). Economic evaluation of AI-assisted technologies in healthcare: A systematic review. *Journal of Food and Drug Analysis*, 33(4), 487–500. https://doi.org/10.38212/2224-6614.3570
+13. NHS England. Diabetic eye screening pathway and programme standards. **Exact document version and publication details require verification.**
 
 ---
 
-# Appendix A. Research Integrity Principles
+# Appendix A. Evidence interpretation rules
 
-The project follows these principles:
+The following rules govern the interpretation of evidence in this project:
 
-1. No fabricated data or findings.
-2. No unsupported causal claims.
-3. Clear separation of observed evidence and modelled estimates.
-4. Transparent reporting of assumptions.
-5. Documentation of source limitations.
-6. Appropriate treatment of international transferability.
-7. Distinction between productivity and financial savings.
-8. Consideration of potential harms and inequalities.
-9. Respect for copyright and source licensing.
-10. Reproducibility of calculations and analysis.
+1. Technical performance must not be equated with clinical benefit.
+2. Clinical benefit must not automatically be equated with economic value.
+3. Modelled results must be distinguished from observed outcomes.
+4. International results must not automatically be transferred to NHS England.
+5. Missing costs must not be treated as zero.
+6. Time saved must not automatically be described as cash savings.
+7. Preliminary abstract-level figures must not be presented as verified model inputs.
+8. Descriptive trends must not be interpreted as causal effects without an appropriate study design.
+9. Uncertainty and limitations must be reported.
+10. References must be verified against original publications before final publication.
 
-# Appendix B. Current Research Status
+# Appendix B. Research integrity and scope declaration
 
-The manuscript is a working draft.
+This is an independent secondary research project undertaken for personal academic learning and research development.
 
-The following activities remain necessary before it can be considered a completed academic research paper:
+The project does not claim university affiliation, institutional approval, NHS endorsement, professional accreditation or peer-reviewed status.
 
-- Complete the structured literature search.
-- Verify full bibliographic details.
-- Complete full-text extraction.
-- Appraise the quality of included studies.
-- Identify suitable NHS-specific cost inputs.
-- Complete the economic parameter register.
-- Develop and test the economic model.
-- Conduct sensitivity and scenario analyses.
-- Complete the results section.
-- Refine the discussion and conclusions.
-- Check all references and citations.
-- Produce the final formatted PDF.
+It does not involve human participant recruitment, clinical experimentation, direct healthcare intervention or identifiable patient records.
 
-No final economic conclusion is asserted at this stage.
+The analysis is based on published and appropriately reusable secondary information. Source attribution, copyright and licensing conditions must be respected.
+
+The project does not provide medical, legal or regulatory advice. It does not claim to establish the safety or regulatory compliance of any specific AI product.
+
+All quantitative conclusions must be traceable to verified data, transparent assumptions and reproducible calculations. Where the evidence is insufficient, the limitation must be stated rather than replaced with invented results.
+
+**End of working manuscript.**
