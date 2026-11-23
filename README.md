@@ -1,4 +1,6 @@
-# The Economics of Artificial Intelligence in Healthcare
+# Preparing the Healthcare Workforce for Artificial Intelligence: Clinical Accuracy, Human–AI Collaboration, Professional Training and Institutional Readiness
+
+A secondary research study of the educational, clinical, economic and governance conditions for safe AI-assisted healthcare, with a focus on NHS England.
 
 ## Project Overview
 

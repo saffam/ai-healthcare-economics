@@ -1,0 +1,9 @@
+
+assessment_domain,not_yet_competent,developing,competent,assessment_evidence
+AI purpose,Cannot explain intended use,Explains purpose with prompting,Accurately explains intended use,Knowledge questions
+Limitations,Does not identify relevant limitations,Identifies some limitations,Identifies relevant limitations independently,Case simulation
+Diagnostic interpretation,Misinterprets key performance measures,Interprets with support,Interprets measures correctly in context,Case assessment
+Uncertainty,Accepts uncertain output without review,Recognises uncertainty inconsistently,Recognises uncertainty and follows review process,Simulation
+Critical judgement,Accepts AI output without appropriate scrutiny,Challenges some conflicting outputs,Appropriately challenges and escalates,Observed simulation
+Patient communication,Cannot explain AI involvement clearly,Explains with prompting,Provides clear balanced explanation,Role-play
+Governance,Does not follow escalation requirements,Requires reminders,Applies approved procedures,Scenario assessment

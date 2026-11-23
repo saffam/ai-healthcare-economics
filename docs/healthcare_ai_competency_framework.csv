@@ -1,0 +1,16 @@
+
+competency_id,competency_domain,expected_competence,applicable_roles,assessment_method
+C01,AI fundamentals,Explain basic AI concepts and intended use,All relevant healthcare staff,Knowledge assessment
+C02,Clinical interpretation,Interpret AI output in clinical context,Clinical AI users,Case-based assessment
+C03,Diagnostic performance,Explain sensitivity specificity false positives and false negatives,Clinical AI users,Clinical scenario assessment
+C04,Uncertainty,Recognise uncertainty limitations and ungradable inputs,Clinical AI users,Simulation
+C05,Critical appraisal,Challenge unsupported or inconsistent AI recommendations,Clinical AI users,Observed simulation
+C06,Bias and equity,Recognise potential population and data biases,Clinical users and leaders,Case review
+C07,Human oversight,Apply escalation and human review procedures,Clinical AI users,Observed practice
+C08,Patient communication,Explain AI involvement and limitations clearly,Patient-facing staff,Communication assessment
+C09,Privacy and security,Follow approved information governance procedures,All relevant staff,Knowledge assessment
+C10,Incident response,Report and escalate suspected AI-related incidents,Clinical users and leaders,Scenario assessment
+C11,Implementation,Assess workflow and service readiness,Clinical leaders and implementation teams,Project assessment
+C12,Monitoring,Interpret performance and safety monitoring information,Specialists and designated leaders,Portfolio assessment
+C13,Leadership,Support multidisciplinary learning and safe adoption,Clinical and organisational leaders,Workplace assessment
+C14,Continuous learning,Maintain competence after system or pathway changes,AI users,Refresher assessment

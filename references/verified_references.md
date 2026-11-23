@@ -43,3 +43,19 @@ The following sources must not yet be treated as fully verified references:
 4. The abbreviated Wang et al. reference must be expanded to the full author list before final publication.
 5. A bibliographically verified reference is not automatically evidence of a verified research finding. Study methods, numerical results, limitations and conflicts of interest must be appraised separately.
 6. This is a working reference list, not yet the final publication bibliography.
+
+# New references: healthcare AI education and workforce readiness
+
+Woods, L., Lyons, K., Van Der Vegt, A., Olsen, Q., Huang, W., Khor, J. S., Xu, N. and Sullivan, C. (2026). Assessing the effectiveness of artificial intelligence education and training for healthcare workers: a systematic review. *BMC Medical Education*, 26, Article 549. https://doi.org/10.1186/s12909-026-08969-3
+
+NHS England. *Foundational AI education for all healthcare workers*. Developing Healthcare Workers' Confidence in AI. https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/developing-healthcare-workers-confidence-in-ai/chapter-3-suggested-educational-approach/foundational-ai-education-for-all-healthcare-workers
+
+NHS Learning Hub. *Artificial intelligence beyond the basics*. https://learninghub.nhs.uk/catalogue/Artificial-intelligence-beyond-the-basics/about
+
+World Health Organization (2021). *Ethics and governance of artificial intelligence for health: WHO guidance*. Geneva: World Health Organization. https://www.who.int/publications/i/item/9789240029200
+
+Feigerlova, E., Hani, H. and Hothersall-Davies, E. (2025). A systematic review of the impact of artificial intelligence on educational outcomes in health professions education. *BMC Medical Education*, 25, Article 129. https://doi.org/10.1186/s12909-025-06719-5
+
+*AI in the Health Sector: Systematic Review of Key Skills for Future Health Professionals* (2025). Journal of Medical Internet Research, Medical Education. https://mededu.jmir.org/2025/1/e58161/
+
+**Verification note:** The Woods et al. review and the official NHS materials are particularly relevant to the revised research question. The full-text studies should be checked before extracting detailed findings. Official learning resources are evidence of available educational provision, not proof that the training improves patient outcomes.

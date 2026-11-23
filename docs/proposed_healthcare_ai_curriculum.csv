@@ -1,0 +1,14 @@
+
+module_id,module,learning_content,level,practical_activity
+M01,Introduction to healthcare AI,AI concepts terminology and clinical applications,1,Identify examples of AI use
+M02,Understanding AI limitations,Intended use uncertainty and limitations,1,Identify unsuitable use cases
+M03,Ethics privacy and governance,Privacy fairness accountability and safety,1,Analyse short scenarios
+M04,Clinical AI interpretation,Interpretation of AI output and clinical context,2,Review simulated cases
+M05,Diagnostic accuracy,Prevalence sensitivity specificity and predictive values,2,Interpret diagnostic scenarios
+M06,False results and image quality,False positives false negatives and ungradable images,2,Classify screening cases
+M07,Automation bias and critical judgement,Over-reliance and appropriate challenge,2,Challenge deliberately incorrect outputs
+M08,Human review and escalation,Referral review and accountability pathways,2,Practise escalation scenarios
+M09,Patient communication,Explaining AI involvement and limitations,2,Simulated patient conversation
+M10,AI validation and monitoring,Performance drift bias and safety monitoring,3,Interpret a monitoring report
+M11,Implementation and workflow,Readiness integration and service design,3,Map a clinical workflow
+M12,Leadership and education,Training delivery governance and improvement,3,Design a local learning plan

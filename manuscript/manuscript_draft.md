@@ -1,4 +1,6 @@
-# The Economics of Artificial Intelligence in Healthcare: Economic Value, Human Trust, Institutional Differences and the Governance of AI-Assisted Decision-Making
+# Preparing the Healthcare Workforce for Artificial Intelligence: Clinical Accuracy, Human–AI Collaboration, Professional Training and Institutional Readiness
+
+A secondary research study of the educational, clinical, economic and governance conditions for safe AI-assisted healthcare, with a focus on NHS England.
 
 **Research type:** Independent secondary research project  
 **Geographical focus:** NHS England, with international comparative evidence  
@@ -9,11 +11,19 @@
 
 ---
 
-## Abstract
+# Abstract
 
-### Background
+Artificial intelligence (AI) is increasingly being introduced into healthcare, creating opportunities to support diagnosis, screening, clinical decision-making and service organisation. However, the safe use of these technologies depends not only on the technical performance of AI systems but also on the knowledge, judgement and preparedness of the healthcare professionals who work with them.
 
-Artificial intelligence (AI) is increasingly being considered for healthcare applications, including medical screening, diagnosis, clinical decision support and service administration. These technologies may improve aspects of healthcare delivery, but their economic and clinical value depends on more than technical performance. Implementation costs, workforce effects, institutional readiness, human trust, governance and equity may all influence whether benefits are realised.
+This independent secondary research project examines how healthcare organisations can prepare existing and future healthcare professionals to use AI accurately, critically and safely. With a primary focus on NHS England and supporting international evidence, the study considers foundational AI literacy, role-specific clinical training, simulation-based learning, professional education, human oversight, institutional readiness and the evaluation of training outcomes.
+
+The research uses a structured literature review and comparative evidence synthesis. Diabetic retinopathy screening is retained as a case study through which to examine diagnostic accuracy, false-positive and false-negative results, image quality, human review and the transferability of international evidence. Economic considerations are included as supporting factors, particularly the costs of training, implementation, maintenance and monitoring.
+
+The project proposes a tiered workforce education framework that distinguishes foundational awareness, clinical AI competence and specialist implementation and oversight capabilities. It also identifies the need to evaluate whether education changes professional behaviour, clinical processes and ultimately patient outcomes.
+
+The project does not assume that AI automatically improves healthcare or that training alone can correct weaknesses in an AI algorithm. Instead, it argues that safe AI-assisted healthcare requires technically validated systems, appropriately trained professionals, organisational support and continuous evaluation.
+
+**Status:** Independent research working draft. Findings and recommendations remain subject to source verification and completion of the evidence review.
 
 ### Aim
 
