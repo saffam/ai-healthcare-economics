@@ -342,6 +342,16 @@ Potential limitations include incomplete reporting of costs, differences between
 
 The project is not a registered systematic review and should not be described as one. It is a structured independent evidence review with transparent documentation of its methods and limitations.
 
+### Evidence verification and transferability
+
+Bibliographic verification and evidence extraction were treated as separate activities. Confirming the existence and publication details of a source did not automatically establish that its findings were suitable for the economic model.
+
+International economic evaluations were considered informative for identifying model structures, relevant cost categories and potential relationships between diagnostic performance and economic outcomes. Their numerical findings were not treated as NHS England estimates without an explicit assessment of transferability.
+
+The evidence base also contains differences in study design, population, disease thresholds, technology configuration, follow-up arrangements and economic assumptions. These differences limit direct comparison across studies.
+
+Where full-text verification or applicable NHS cost evidence was unavailable, the relevant parameter was retained as unresolved. Missing values were not interpreted as zero and were not replaced with fabricated estimates.
+
 ---
 
 # 4. Analytical Framework
@@ -652,6 +662,14 @@ Sensitivity and specificity are important, but their economic consequences depen
 A false-positive result may generate additional activity, while a false-negative result may delay assessment. Both can affect costs and patient outcomes.
 
 The value of an AI system therefore depends on its interaction with the pathway and the consequences of its outputs.
+
+## ### Current status of the economic model
+
+The economic model has undergone a technical input-readiness assessment. Sixteen required parameters were identified, and all sixteen remain unresolved pending evidence verification. The readiness assessment therefore does not support a real-world NHS cost-effectiveness calculation at this stage.
+
+The model's calculation functions have also been tested using artificial values. These tests assess computational behaviour only; they do not validate the empirical inputs, clinical assumptions or economic conclusions of the model.
+
+Consequently, no NHS-specific incremental cost-effectiveness ratio or cost-saving conclusion is reported. The outstanding evidence requirements are documented in the project's economic model and data-management records.
 
 ## 7.5 Workforce effects and professional autonomy
 

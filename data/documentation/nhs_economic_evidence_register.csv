@@ -1,0 +1,13 @@
+evidence_id,cost_or_resource_item,required_unit,preferred_source,geographical_priority,period,verification_status,model_parameter,notes
+EC001,Screening population,people,NHS screening statistics,England,defined screening year,pending,P001,Define population and denominator
+EC002,Screening prevalence,proportion,NHS or applicable epidemiological study,England,defined screening year,pending,P002,Define disease threshold
+EC003,AI software cost,GBP/person,NHS procurement or published economic study,England,defined contract period,pending,P007,Include licensing basis
+EC004,Comparator grading cost,GBP/person,NHS cost evidence,England,defined financial year,pending,P008,Map actual comparator workflow
+EC005,AI implementation cost,GBP,NHS implementation evidence,England,implementation period,pending,P009,Include integration and setup
+EC006,AI maintenance cost,GBP/year,NHS or supplier contract evidence,England,annual,pending,P010,Include updates and support
+EC007,Training cost,GBP,NHS workforce and implementation evidence,England,implementation period,pending,P011,Include staff time
+EC008,Monitoring cost,GBP/year,NHS governance and service evidence,England,annual,pending,P012,Include audit and quality assurance
+EC009,Follow-up cost,GBP/person,NHS pathway cost evidence,England,defined financial year,pending,P013,Specify referral and follow-up pathway
+EC010,False-positive follow-up cost,GBP/person,NHS pathway and cost evidence,England,defined financial year,pending,P014,Do not assume every false positive has identical cost
+EC011,False-negative expected cost,GBP/person,Clinical outcome and health economic evidence,England,defined time horizon,pending,P015,Requires defensible consequence model
+EC012,Model time horizon,years,Published guidance and clinical pathway evidence,England,model horizon,pending,P016,Justify based on outcome and disease progression

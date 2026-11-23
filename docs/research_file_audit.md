@@ -1,227 +1,104 @@
-# Research File Audit
+# Verified References — Core Research Sources
 
-**Project:** The Economics of Artificial Intelligence in Healthcare: Economic Value, Human Trust, Institutional Differences and the Governance of AI-Assisted Decision-Making
+**Project:** The Economics of Artificial Intelligence in Healthcare  
+**Verification date:** 23 November 2026  
+**Status:** Core bibliographic details checked against publisher, PubMed or official organisational records. This is not yet a complete audit of every reference cited in the manuscript.
 
-**Audit type:** Independent project documentation and consistency audit  
-**Status:** Initial audit — pending final file-by-file verification  
-**Date:** 23 November 2026
+## 1. Economic evaluation of AI in healthcare
 
-## 1. Purpose
+Wu, W.-T., Chao, Y.-W., Lin, T.-K., Huang, C.-K. and Hsieh, P.-H. (2025). Economic evaluation of AI-assisted technologies in healthcare: A systematic review. *Journal of Food and Drug Analysis*, 33(4), 487–500. https://doi.org/10.38212/2224-6614.3570
 
-This audit establishes a structured record of the project's research files, identifies areas requiring verification, and checks whether the documentation supports the central research question and six subsidiary research questions.
+Verification record: Publisher/PubMed Central record confirms title, author list, journal, year, volume, issue, pages and DOI.
 
-The audit is intended to improve consistency, traceability, transparency and reproducibility before the final manuscript is prepared.
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC12795340/
 
-This is an internal research-quality exercise. It is not an external peer review, institutional audit or formal certification.
+Use in this project: General evidence on published economic evaluations of AI-assisted healthcare technologies. Do not assume that the conclusions of included studies transfer directly to NHS England.
 
-## 2. Research question coverage
+## 2. Cost-effectiveness and budget impact
 
-| Research question | Subject | Required evidence and documentation |
-|---|---|---|
-| RQ1 | Economic value | Economic evaluations, productivity evidence, clinical outcomes and cost-effectiveness studies |
-| RQ2 | Costs | Technology, implementation, training, maintenance, monitoring and opportunity costs |
-| RQ3 | Workforce and human judgement | Professional autonomy, workflow, productivity and clinical responsibility |
-| RQ4 | Human trust | Healthcare professional and patient trust, transparency, reliability and oversight |
-| RQ5 | Institutional differences | Organisational capacity, infrastructure, population characteristics and healthcare-system context |
-| RQ6 | Policy and governance | Regulation, reimbursement, accountability, equity and institutional governance |
+El Arab, R.A. and Al Moosa, O.A. (2025). Systematic review of cost effectiveness and budget impact of artificial intelligence in healthcare. *npj Digital Medicine*, 8, article 548. https://doi.org/10.1038/s41746-025-01722-y
 
-**Audit assessment:** All six research questions have corresponding analytical documentation according to the project's development record. Their final evidence coverage must be checked against the completed literature extraction and manuscript.
+Verification record: PubMed and publisher records confirm the authors, title, journal, publication date, article number and DOI. Published 26 August 2025.
 
-## 3. Research protocol and methods
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40858882/
 
-The following documents should be maintained as the authoritative methodological record:
+Publisher: https://www.nature.com/articles/s41746-025-01722-y
 
-| File | Audit requirement |
-|---|---|
-| `docs/research_questions.md` | Confirm consistency with the approved research question |
-| `docs/research_objectives.md` | Confirm objectives correspond to all six research questions |
-| `docs/research_protocol.md` | Confirm search, screening, extraction and synthesis procedures are documented |
-| `docs/literature_search_strategy.md` | Confirm databases, search dates and search terms are recorded |
-| `docs/literature_screening_criteria.md` | Confirm inclusion and exclusion criteria are explicit |
-| `literature/quality_assessment.md` | Confirm study appraisal procedures and limitations are documented |
-| `docs/reproducibility_record.md` | Confirm analytical procedures and software are recorded |
+Use in this project: Review of cost-effectiveness and budget-impact evidence. Assess the included studies' methods, assumptions and contextual applicability before drawing conclusions.
 
-The actual existence, completeness and internal consistency of each file must be confirmed before the audit is marked final.
+## 3. Diabetic retinopathy economic evaluation
 
-## 4. Literature and evidence records
+Wang, Y., Liu, C., Hu, W., Luo, L., Shi, D., Zhang, J., Yin, Q., Zhang, L., Han, X. and He, M. (2024). Economic evaluation for medical artificial intelligence: Accuracy vs. cost-effectiveness in a diabetic retinopathy screening case. *npj Digital Medicine*, 7, article 43. https://doi.org/10.1038/s41746-024-01032-9
 
-The following registers form the project's evidence-tracking system:
+Verification record: Publisher and PubMed Central records confirm the bibliographic details. Published 21 February 2024.
 
-| File | Required verification |
-|---|---|
-| `literature/source_register.csv` | Every included source has a unique identifier and bibliographic details |
-| `literature/literature_extraction.csv` | Extracted findings correspond to the cited publications |
-| `literature/case_study_source_register.csv` | Diabetic retinopathy sources are traceable |
-| `literature/case_study_extraction.csv` | Study characteristics and findings are supported by source material |
-| `literature/case_study_quality_appraisal.md` | Appraisal reflects study design and limitations |
-| `literature/uk_case_study_source_register.csv` | UK and NHS evidence is distinguished from international evidence |
-| `literature/diagnostic_accuracy_source_register.csv` | Diagnostic accuracy sources are identifiable |
-| `literature/diagnostic_accuracy_extraction.csv` | Accuracy estimates are checked against the original studies |
-| `literature/clinical_evidence_gaps.csv` | Unresolved clinical evidence is documented |
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC10881978/
 
-### Required evidence checks
+Use in this project: International model-based economic evaluation involving a large diabetic retinopathy screening programme in China. Its results are not NHS cost estimates.
 
-For each source, verify:
+## 4. Diabetic retinopathy health economic review
 
-1. The publication exists.
-2. The authors, title, year and publication details are correct.
-3. The DOI or official URL resolves to the intended source.
-4. The study design and population are accurately described.
-5. Extracted numerical findings agree with the original publication.
-6. The interpretation does not exceed the evidence.
-7. Conflicts of interest and relevant limitations are recorded.
-8. The source is appropriate for the geographical and institutional context in which it is used.
+Leigh, J., Drinkwater, J., Turner, A. and Schroeder, E.-A. (2026). Health Economic Considerations for the Implementation of Artificial Intelligence-Enabled Diabetic Retinopathy Screening: A Review. *Clinical & Experimental Ophthalmology*, 54(1), 144–161. https://doi.org/10.1111/ceo.70016
 
-Abstract-level information must not be presented as if full-text extraction had been completed.
+Verification record: PubMed and Wiley confirm the authors, journal, volume, issue, pages and DOI. First published online 3 November 2025; issue publication January–February 2026.
 
-## 5. NHS diabetic retinopathy case study
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41184640/
 
-The case study requires a clear distinction between the NHS screening pathway and evidence obtained from international AI screening studies.
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC12886596/
 
-Files requiring final consistency checks include:
+Use in this project: Review of 18 health economic analyses of AI versus manual grading for diabetic retinopathy. Relevant issues include methodological variation, contextual parameters, follow-up adherence and the distinction between diagnostic accuracy and cost-effectiveness.
 
-- `docs/case_study_scope.md`
-- `docs/nhs_diabetic_eye_screening_pathway.md`
-- `data/documentation/nhs_screening_pathway.csv`
-- `data/processed/nhs_screening_coverage.csv`
-- `data/documentation/nhs_screening_coverage_notes.md`
-- `docs/case_study_economic_model.md`
-- `data/documentation/case_study_parameter_register.csv`
-- `data/documentation/case_study_parameter_sources.md`
-- `data/documentation/nhs_cost_data_strategy.md`
-- `data/documentation/nhs_cost_extraction.csv`
-- `data/documentation/cost_evidence_gaps.csv`
-- `docs/economic_outcome_definitions.md`
+## 5. Trust in AI clinical decision support
 
-### Specific audit requirements
+Tun, H.M., Abdul Rahman, H., Naing, L. and Malik, O.A. (2025). Trust in Artificial Intelligence-Based Clinical Decision Support Systems Among Health Care Workers: Systematic Review. *Journal of Medical Internet Research*, 27, e69678. https://doi.org/10.2196/69678
 
-- Screening coverage must not be interpreted as an effect of AI.
-- Diagnostic sensitivity and specificity must be linked to the relevant population, disease threshold and screening conditions.
-- International estimates must not automatically be treated as NHS estimates.
-- Screening attendance, image gradability, referral and follow-up must be treated as distinct outcomes.
-- Cost definitions must be consistent across the pathway.
-- Any rounded or approximate descriptive data must be labelled appropriately.
-- Unverified values must not be used as established model inputs.
+Verification record: PubMed and the journal's open-access record confirm the authors, title, year, journal, article number and DOI. Published 29 July 2025.
 
-## 6. Economic analysis files
+PubMed: https://pubmed.ncbi.nlm.nih.gov/40772775/
 
-The economic analysis documentation includes:
+Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC12440830/
 
-- `docs/quantitative_analysis_plan.md`
-- `docs/economic_model_technical_report.md`
-- `docs/missing_economic_data_impact_analysis.md`
-- `docs/economic_uncertainty_analysis.md` (if present)
-- `data/processed/case_study_model_inputs.csv`
-- `src/case_study_model.py`
-- `src/validate_case_study_data.py`
-- `src/validate_economic_calculations.py`
-- `src/run_case_study_economic_model.py`
+Use in this project: Evidence concerning healthcare workers' trust in AI-based clinical decision support. Do not generalise healthcare worker findings automatically to patients or all professional groups.
 
-The current model readiness assessment identifies 16 parameters, of which zero are ready and 16 remain unresolved.
+## 6. AI implementation in healthcare
 
-The report is generated at:
+Powis, M., Ladak, A.M., Lakey, A., Grant, R.C., Krzyzanowska, M.K., Peterson, E. and colleagues (2026). Framework for artificial intelligence implementation research in healthcare: synthesizing current evidence on barriers and facilitators. *npj Digital Medicine*, 9, article 543. https://doi.org/10.1038/s41746-026-02705-3
 
-`results/tables/case_study_model_readiness.csv`
+Verification record: Publisher record confirms title, publication date, journal, volume, article number and DOI. Published 8 May 2026. The publisher record lists additional authors; consult the publisher's complete citation export before preparing a final reference list requiring every author.
 
-This is an appropriate record of the current evidence limitations. It must not be described as a completed cost-effectiveness analysis.
+Publisher: https://www.nature.com/articles/s41746-026-02705-3
 
-### Economic audit requirements
+PubMed: https://pubmed.ncbi.nlm.nih.gov/42104102/
 
-- Confirm that cost and outcome definitions are explicit.
-- Check calculations against independently reproducible test cases.
-- Confirm that units are consistent.
-- Distinguish one-off and recurring costs.
-- Distinguish average and incremental costs.
-- Document the perspective and time horizon.
-- Document uncertainty and missing inputs.
-- Avoid presenting illustrative values as observed NHS expenditure.
-- Do not calculate or report an incremental cost-effectiveness ratio when required inputs or outcomes are unavailable.
+Use in this project: Implementation framework identifying domains concerning design, development, organisational context, deployment, maintenance, quality, safety and equity.
 
-## 7. Analytical documentation
+## 7. International ethics and governance
 
-The following topic-specific analyses should be reconciled with the manuscript:
+World Health Organization (2021). *Ethics and governance of artificial intelligence for health: WHO guidance*. Geneva: World Health Organization. ISBN 978-92-4-002920-0.
 
-- Screening attendance economic analysis.
-- Diagnostic errors and referral analysis.
-- Diagnostic accuracy versus economic value.
-- Workforce productivity analysis.
-- Human trust and clinical judgement analysis.
-- Institutional differences analysis.
-- Reimbursement and regulation analysis.
-- Equity and distributional analysis.
-- AI-assisted versus autonomous screening analysis.
+Official publication: https://www.who.int/publications/i/item/9789240029200
 
-Each analytical document should identify its evidence base, principal arguments, limitations and relationship to the research questions.
+Verification record: WHO publication page confirms title, publication date, issuing organisation and ISBN.
 
-Repeated arguments should be consolidated in the manuscript rather than reproduced unnecessarily.
+Use in this project: International guidance on ethical and human-rights considerations in AI for health. It is guidance, not proof that a particular system complies with any law or regulation.
 
-## 8. Manuscript consistency
+## 8. UK digital health evidence standards
 
-The authoritative manuscript file is:
+National Institute for Health and Care Excellence (NICE). *Evidence Standards Framework for Digital Health Technologies*. Official guidance webpage.
 
-`manuscript/manuscript_draft.md`
+https://www.nice.org.uk/what-nice-does/digital-health/evidence-standards-framework-esf-for-digital-health-technologies
 
-The final manuscript must be consistent with the research protocol, evidence registers, economic analysis and verified references.
+Verification record: Official NICE webpage. Record the date accessed and the specific version or update date when preparing the final bibliography.
 
-The following checks are required:
+Use in this project: UK evidence appraisal context for digital health technologies. Check the framework's scope and applicability to the specific technology being assessed.
 
-1. The title accurately reflects the research scope.
-2. The abstract does not claim findings that have not been established.
-3. The introduction explains the research problem and objectives.
-4. The literature review accurately represents the available evidence.
-5. The methodology describes the work actually performed.
-6. The results distinguish evidence synthesis from illustrative analysis.
-7. The discussion recognises contradictory evidence and uncertainty.
-8. Recommendations follow from the evidence.
-9. Limitations are explicit.
-10. All references are traceable and correctly attributed.
+## Bibliographic integrity notes
 
-The manuscript must not claim NHS endorsement, university affiliation, formal ethics approval, peer review or clinical validation.
-
-## 9. Data management and reproducibility
-
-The following files should be checked:
-
-- `data/documentation/data_management.md`
-- `data/documentation/data_dictionary.md`
-- `data/documentation/dataset_register.csv`
-- `requirements.txt`
-- `.gitignore`
-
-The audit should confirm that:
-
-- Data sources and transformations are documented.
-- Raw or restricted data are not unintentionally committed.
-- Generated outputs can be reproduced from documented scripts.
-- Software dependencies are recorded.
-- File paths are relative to the project repository where practicable.
-- No confidential or identifiable patient information is included.
-
-## 10. Outstanding audit actions
-
-| Priority | Action | Completion condition |
-|---|---|---|
-| High | Verify all references | Bibliographic records checked against original sources |
-| High | Verify extracted numerical results | Values checked against full-text publications where available |
-| High | Reconcile research questions and manuscript | All six questions are addressed accurately |
-| High | Review economic model inputs | Every value has an appropriate source and status |
-| High | Review NHS cost evidence | Cost definitions, periods and populations are comparable |
-| Medium | Check all analytical documents | Consistent terminology and no unsupported duplication |
-| Medium | Re-run validation scripts | Successful execution documented |
-| Medium | Check repository data management | No restricted or confidential material committed |
-| Medium | Review citations and copyright | Attribution and reuse requirements addressed |
-| Final | Complete manuscript audit | All sections and references reconciled |
-
-## 11. Audit conclusion
-
-The project has developed a substantial methodological, analytical and documentary foundation covering the economic, clinical, workforce, trust, institutional, equity and governance dimensions of healthcare AI.
-
-The economic model readiness assessment has successfully identified the outstanding input requirements. It currently reports 16 unresolved parameters, so no defensible real-world NHS cost-effectiveness result can yet be reported.
-
-The next priority is verification of the original literature and NHS evidence, followed by reconciliation of the evidence registers and manuscript.
-
-This audit remains provisional until the individual files and source records have been inspected and the outstanding actions have been completed.
-
-**Research status:** Independent secondary research in progress.
-
-**Interpretation:** No definitive conclusion that AI-assisted diabetic retinopathy screening is cost-effective in NHS England is established by the current model.
+1. The reference list above is a verified core bibliography, not a complete bibliography of every source in the project.
+2. A verified DOI establishes bibliographic traceability; it does not establish that a study is methodologically sound or applicable to NHS England.
+3. The full-text content and numerical results must be checked separately before extraction.
+4. Where the publisher lists additional authors, do not silently omit them in the final citation style. Use the full publisher citation export or the citation style's author-list rules.
+5. For NICE and other frequently updated webpages, record the date accessed and any version information available.
+6. Do not cite a source as supporting a claim unless the relevant passage, result or recommendation has been checked.
+7. Check the licence of each source before reproducing figures, tables or substantial text.
+8. This document does not establish that all manuscript citations have been verified.

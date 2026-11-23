@@ -1,0 +1,17 @@
+parameter_id,parameter_name,required_evidence,current_status,permitted_use,next_action
+P001,population_size,NHS population count and defined period,missing,no calculation,identify official denominator
+P002,screening_prevalence,prevalence for defined population and disease threshold,missing,no calculation,identify applicable prevalence source
+P003,ai_sensitivity,full-text diagnostic accuracy evidence,missing,no calculation,verify target AI and population
+P004,ai_specificity,full-text diagnostic accuracy evidence,missing,no calculation,verify target AI and population
+P005,comparator_sensitivity,comparator accuracy evidence,missing,no calculation,define comparator and verify accuracy
+P006,comparator_specificity,comparator accuracy evidence,missing,no calculation,define comparator and verify accuracy
+P007,ai_cost_per_person,verified AI pathway cost,missing,no calculation,identify procurement and pathway evidence
+P008,comparator_cost_per_person,verified comparator pathway cost,missing,no calculation,map standard pathway costs
+P009,ai_implementation_cost,verified one-off implementation cost,missing,no calculation,identify implementation cost evidence
+P010,ai_annual_maintenance_cost,verified annual maintenance cost,missing,no calculation,identify contract or service evidence
+P011,ai_training_cost,verified training cost,missing,no calculation,identify training resources and expenditure
+P012,ai_monitoring_cost,verified annual monitoring cost,missing,no calculation,identify audit and quality assurance costs
+P013,follow_up_cost_per_person,verified follow-up pathway cost,missing,no calculation,define follow-up and referral pathway
+P014,false_positive_follow_up_cost,verified false-positive pathway cost,missing,no calculation,define downstream resource use
+P015,false_negative_expected_cost,clinical consequence and economic evidence,missing,no calculation,define outcome and time horizon
+P016,time_horizon,justified model time horizon,missing,no calculation,justify using clinical and economic evidence

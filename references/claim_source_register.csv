@@ -1,0 +1,9 @@
+claim_id,claim_to_be_supported,source_id,source_location,verification_status,notes
+CL001,Published AI healthcare economic evaluations use heterogeneous methods,REF001,full text required,pending,Do not generalise across all technologies
+CL002,Healthcare AI cost-effectiveness evidence has budget impact limitations,REF002,full text required,pending,Check cost categories and study settings
+CL003,Highest diagnostic accuracy does not necessarily maximise cost-effectiveness,REF003,abstract and full text,abstract checked,China model; not an NHS result
+CL004,DR AI economic evaluations vary in methods and contextual assumptions,REF004,abstract and full text,abstract checked,Review of 18 economic analyses
+CL005,Healthcare worker trust is influenced by system and organisational factors,REF005,full text required,pending,Do not infer patient trust
+CL006,AI implementation barriers span design organisation deployment quality safety and equity,REF006,abstract checked,abstract checked,Implementation framework not a cost-effectiveness study
+CL007,AI health governance should address ethics and human rights,REF007,official guidance,official record verified,Consult the full guidance for specific principles
+CL008,Digital health technologies should be assessed against evidence standards,REF008,official framework,official webpage identified,Check specific framework version and applicability
