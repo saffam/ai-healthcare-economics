@@ -59,3 +59,18 @@ Feigerlova, E., Hani, H. and Hothersall-Davies, E. (2025). A systematic review o
 *AI in the Health Sector: Systematic Review of Key Skills for Future Health Professionals* (2025). Journal of Medical Internet Research, Medical Education. https://mededu.jmir.org/2025/1/e58161/
 
 **Verification note:** The Woods et al. review and the official NHS materials are particularly relevant to the revised research question. The full-text studies should be checked before extracting detailed findings. Official learning resources are evidence of available educational provision, not proof that the training improves patient outcomes.
+# Additional references: AI education and workforce preparation
+
+1. Woods, L., Lyons, K., Van Der Vegt, A., Olsen, Q., Huang, W., Khor, J. S., Xu, N. and Sullivan, C. (2026). Assessing the effectiveness of artificial intelligence education and training for healthcare workers: a systematic review. *BMC Medical Education*, 26, Article 549. https://doi.org/10.1186/s12909-026-08969-3
+
+2. Mofidi, S. A. and Khoshgoftar, Z. (2026). Effectiveness of AI-enhanced virtual patients in clinical reasoning training of healthcare professionals and students: a systematic review. *BMC Medical Education*, 26, Article 1901. https://doi.org/10.1186/s12909-026-10242-6
+
+3. General Medical Council. Artificial intelligence and innovative technologies. Professional standards and learning materials. https://www.gmc-uk.org/professional-standards/learning-materials/artificial-intelligence-and-innovative-technologies
+
+4. UK Government (2026). National Commission into the Regulation of AI in Healthcare: Recommendations for a future regulatory framework. Published 10 September 2026. https://www.gov.uk/government/publications/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework/national-commission-into-the-regulation-of-ai-in-healthcare-recommendations-for-a-future-regulatory-framework
+
+## Verification note
+
+The two journal references were checked against their publisher records. The GMC and UK Government sources are official policy or professional guidance, not peer-reviewed clinical trials.
+
+The references support the discussion of training, professional responsibility and institutional readiness. They do not demonstrate that the proposed framework has been implemented or validated.

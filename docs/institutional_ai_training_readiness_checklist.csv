@@ -1,0 +1,14 @@
+
+readiness_id,readiness_domain,question,evidence_required
+IR01,Leadership,Is there an accountable senior clinical or organisational lead?,Named role and governance record
+IR02,Workforce mapping,Which professional groups interact with the AI system?,Documented role mapping
+IR03,Training design,Is education appropriate to each role?,Approved learning pathway
+IR04,Protected time,Can staff attend required learning?,Workforce and scheduling plan
+IR05,Competency,Is practical competence assessed where required?,Assessment rubric and records
+IR06,Supervision,Are supervision and escalation arrangements defined?,Approved operating procedure
+IR07,Patient communication,Can staff explain AI involvement and limitations?,Communication guidance
+IR08,Technical support,Can users access help when problems occur?,Support process
+IR09,Incident response,Can staff report suspected AI-related harm?,Incident reporting procedure
+IR10,Monitoring,Is system performance reviewed after deployment?,Monitoring plan
+IR11,Equity,Are differences in performance considered?,Equity assessment
+IR12,Continuous learning,Are training updates triggered by relevant changes?,Review and refresher process

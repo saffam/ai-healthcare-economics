@@ -1,0 +1,9 @@
+
+claim_id,claim,source,verification_status,allowed_interpretation,prohibited_overstatement
+AT001,27 AI education studies were included in a 2026 systematic review,Woods et al. 2026,Verified against article abstract,Review included 27 studies,All healthcare AI training is effective
+AT002,Training improved knowledge and skills in included studies,Woods et al. 2026,Verified against article abstract,Improvements were reported in included studies,Training improves patient outcomes
+AT003,The review did not identify level 4 organisational or patient benefit outcomes,Woods et al. 2026,Verified against article abstract,Highest evaluation level was not demonstrated,No training programme can ever improve patient outcomes
+AT004,16 virtual-patient studies with 1136 participants were included,Mofidi and Khoshgoftar 2026,Verified against article abstract,The review included 16 studies,All virtual patient tools are clinically effective
+AT005,Seven of eight studies favoured AI for clinical reasoning and history-taking,Mofidi and Khoshgoftar 2026,Verified against article abstract,Promising direction of findings,AI improves diagnostic accuracy in all settings
+AT006,Doctors remain responsible for professional decisions when using AI,GMC professional guidance,Verified against official guidance,Professional judgement and responsibility continue to apply,AI use transfers responsibility to software developers
+AT007,Training should be proportionate to professional role and interaction with AI,UK National Commission 2026,Verified against official report,Role-specific training is recommended,One course is sufficient for all roles

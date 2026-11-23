@@ -1,0 +1,8 @@
+
+approach_id,training_approach,main_purpose,evidence_source,potential_strength,important_limitation,proposed_project_role
+T01,Foundational AI literacy,Develop basic understanding,Woods et al. 2026,Accessible introduction,Does not establish specialist competence,Core foundation
+T02,Role-specific clinical education,Prepare staff for relevant AI tasks,Woods et al. 2026,Aligns learning with professional responsibility,Requires specialty adaptation,Core training
+T03,AI-enhanced virtual patients,Practise clinical reasoning,Mofidi and Khoshgoftar 2026,Repeatable interactive cases,Diagnostic accuracy evidence remains limited,Supporting simulation
+T04,Feedback-based learning,Support reflection and improvement,Mofidi and Khoshgoftar 2026,Potential for repeated feedback,Feedback quality must be checked,Supporting method
+T05,Supervised workplace learning,Apply knowledge in an approved setting,Proposed framework,Connects education with practice,Requires appropriate supervision and evaluation,Proposed component
+T06,Continuing professional development,Maintain competence over time,GMC professional guidance,Responds to changing technology,Requires protected time and resources,Core maintenance

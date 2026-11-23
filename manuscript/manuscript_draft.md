@@ -225,6 +225,119 @@ This project addresses these issues through an integrated secondary research fra
 
 ---
 
+# Healthcare Workforce Preparation and AI Education
+
+## AI literacy as a professional capability
+
+The introduction of AI into healthcare creates an educational requirement across the existing and future workforce. Healthcare professionals need sufficient understanding to recognise what a system is designed to do, interpret its outputs and identify situations in which its recommendations require further review.
+
+Woods et al. (2026) reviewed 27 studies evaluating AI education and training for healthcare workers. Their findings indicate that educational programmes can improve knowledge, skills, attitudes and some reported behaviours. However, the review did not identify evidence demonstrating outcomes at the highest evaluation level concerning organisational change and patient benefit.
+
+This distinction is important. AI education may improve learner knowledge without necessarily improving the quality of clinical decisions or patient outcomes.
+
+## Role-specific education
+
+Healthcare professionals have different responsibilities and levels of interaction with AI. A professional who encounters an AI-generated administrative output has different training needs from a clinician who interprets an AI-supported diagnostic result.
+
+A single generic course is therefore unlikely to provide sufficient preparation for every role. Foundational literacy can provide a common starting point, while additional education should reflect the technology, professional responsibilities and clinical risks involved.
+
+## Simulation and clinical reasoning
+
+Simulation provides an opportunity to practise interpreting AI outputs without exposing patients to experimental decisions. Mofidi and Khoshgoftar (2026) reviewed 16 studies of AI-enhanced virtual patients involving 1,136 participants. Their findings suggest potential benefits for clinical reasoning and history-taking, although evidence for diagnostic accuracy was less consistent.
+
+Simulation should therefore be treated as a learning method rather than proof of clinical competence. It should complement, not replace, supervised clinical education.
+
+## Critical evaluation and appropriate challenge
+
+A central educational objective is to help professionals recognise when an AI recommendation is incorrect, uncertain or inconsistent with other clinical information.
+
+Training should address false positives, false negatives, poor-quality inputs, bias and automation bias. Professionals should understand the appropriate human review and escalation procedures for the systems they use.
+
+## Continuing professional development
+
+AI systems and clinical workflows evolve. Education should therefore continue beyond initial training and include appropriate updates, refresher learning and reassessment when systems or responsibilities change.
+
+## Implications
+
+The evidence supports a tiered education model combining foundational AI literacy, role-specific clinical competence and specialist implementation and oversight capabilities. However, the relationship between training and patient benefit remains insufficiently established and requires stronger future evaluation.
+
+---
+
+# Proposed Framework for Preparing the Healthcare Workforce
+
+## Framework overview
+
+This research proposes a workforce preparation framework with three educational levels and an organisational support layer.
+
+### Level 1: Foundational AI literacy
+
+Relevant staff develop an understanding of AI concepts, intended use, limitations, uncertainty, privacy, bias and professional responsibility.
+
+### Level 2: Role-specific clinical competence
+
+Professionals who interpret or act on AI outputs receive technology-specific and clinically relevant education. They practise recognising errors, interpreting uncertainty, challenging recommendations and applying human review.
+
+### Level 3: Specialist implementation and oversight
+
+Designated professionals develop advanced capabilities in clinical evaluation, performance monitoring, governance, incident investigation, workforce education and implementation.
+
+## Organisational support layer
+
+The three levels require institutional support through protected learning time, leadership, supervision, technical assistance, clear escalation procedures and continuing education.
+
+## Assessment
+
+The framework proposes a progression from knowledge assessment to observed simulation, supervised application and ongoing review.
+
+Completion of a course should not automatically confer permission to use a clinical AI system. Authorisation and scope of practice remain subject to the relevant professional and organisational requirements.
+
+## Expected contribution
+
+The framework aims to connect AI education with safe professional practice. It does not claim that training directly improves the accuracy of the underlying algorithm. Instead, it proposes that appropriate training may improve the ability of professionals to interpret, verify and respond to AI outputs.
+
+## Evaluation requirement
+
+The framework requires future evaluation. Evidence should examine knowledge, practical competence, workplace behaviour and, where appropriate, organisational and patient outcomes.
+
+---
+
+# Institutional Readiness and Implementation
+
+## Organisational responsibility
+
+Workforce education cannot be treated solely as an individual responsibility. Healthcare organisations influence whether professionals have access to appropriate training, protected learning time, supervision and technical support.
+
+## Protected learning time
+
+Healthcare workers often have demanding clinical responsibilities. Requiring additional training without allocating appropriate time may create barriers to participation and unequal access.
+
+Organisations should consider training requirements during workforce planning and implementation design.
+
+## Clinical leadership
+
+Designated clinical leaders can connect technology implementation with professional practice. Their responsibilities may include identifying training needs, coordinating education, supporting escalation and ensuring that lessons from incidents inform future learning.
+
+## Multidisciplinary working
+
+AI implementation may involve clinicians, nurses, technicians, informaticians, educators, safety specialists and managers. Training should help relevant groups understand their respective responsibilities and how their work connects.
+
+## Governance and accountability
+
+The General Medical Council states that professional judgement and responsibility continue to apply when doctors use AI-enabled technologies. Its guidance also emphasises the importance of working within competence, continuing professional development and reporting relevant adverse incidents.
+
+The UK's 2026 National Commission recommends training proportionate to professional roles and levels of interaction with AI-enabled products. This supports the distinction between foundational education and additional technology-specific preparation.
+
+## Continuous improvement
+
+Organisations should monitor whether training remains relevant and whether professionals have appropriate mechanisms to report errors, raise concerns and obtain support.
+
+## Conclusion
+
+Institutional readiness is necessary to translate individual learning into safe and sustainable practice. Training without organisational support may have limited practical effect.
+
+---
+
+
 # 3. Methodology
 
 ## 3.1 Research design
@@ -661,113 +774,107 @@ These findings are provisional and should be updated following full-text source 
 
 ---
 
-# 7. Discussion
+# Discussion: From AI Awareness to Clinical Competence
 
-## 7.1 Principal interpretation
+## Principal argument
 
-This project examines whether AI can improve healthcare efficiency and outcomes under particular economic, institutional and policy conditions.
+The central argument of this research is that healthcare AI adoption requires more than access to technology. It requires professionals who can understand, interpret, question and appropriately use AI outputs.
 
-The evidence reviewed suggests that AI may offer economic and operational benefits in some applications. However, these benefits are conditional on the technology, population, implementation arrangements, clinical pathway and economic assumptions.
+The available training literature provides encouraging evidence that educational programmes can improve AI knowledge and some aspects of professional behaviour. However, the evidence linking training to organisational change and patient benefit remains limited.
 
-The central implication is that AI should be evaluated as part of the healthcare service in which it operates, rather than as an isolated technical product.
+This gap suggests that healthcare education should move beyond introductory awareness towards role-specific competence, practical assessment and continuing development.
 
-## 7.2 Economic value requires a complete pathway perspective
+## Why a tiered approach is preferable
 
-A technology may improve one stage of a clinical pathway without reducing total expenditure.
+Healthcare professionals do not interact with AI in identical ways. A common foundation can support shared understanding, but professionals who use AI in clinical decisions need more specialised preparation.
 
-For example, an AI screening system might reduce the resources required for initial image interpretation but increase referrals for confirmatory assessment. Whether the overall intervention generates value depends on the costs and outcomes of the complete pathway.
+The proposed three-level framework therefore distinguishes foundational literacy, clinical competence and specialist oversight.
 
-This reinforces the importance of defining the comparator, economic perspective and time horizon before calculating economic outcomes.
+## The importance of human judgement
 
-It also explains why the price of software or a reported reduction in processing time cannot independently establish cost-effectiveness.
+The objective is not to encourage unquestioning trust in AI. Professionals should understand the conditions under which a system may be unreliable and retain the ability to challenge its output.
 
-## 7.3 The importance of cost transparency
+This is particularly important when AI results conflict with other clinical information or when image quality, patient characteristics or system limitations create uncertainty.
 
-Incomplete cost reporting creates uncertainty in economic evaluation.
+## Economic implications
 
-If infrastructure, training, maintenance or clinical oversight are omitted, an intervention may appear less expensive than it is in practice.
+Training requires resources, including staff time, education materials, simulation, supervision and reassessment. These costs should be considered in implementation planning.
 
-The problem is not limited to the initial adoption period. Healthcare organisations may face recurring expenditure for software updates, technical support, quality monitoring and changes to clinical workflows.
+Potential improvements in workflow or efficiency should be measured rather than assumed. Economic savings should not be used as a substitute for evidence of safety and clinical value.
 
-Economic evaluations should make these components visible and explain how missing information is handled.
+## Limitations
 
-## 7.4 Diagnostic accuracy and clinical consequences
+This project is an independent secondary research study and does not collect new clinical or participant data.
 
-The diabetic retinopathy case study illustrates why diagnostic accuracy and economic value should be analysed separately.
+The literature includes different educational interventions, professions, study designs and outcome measures. The evidence cannot establish one universally effective curriculum.
 
-Sensitivity and specificity are important, but their economic consequences depend on prevalence, test configuration, referral thresholds and subsequent care.
+The proposed framework has not been prospectively validated. It should be treated as a research-based proposal requiring future evaluation.
 
-A false-positive result may generate additional activity, while a false-negative result may delay assessment. Both can affect costs and patient outcomes.
+## Future research
 
-The value of an AI system therefore depends on its interaction with the pathway and the consequences of its outputs.
+Future research should investigate:
+- Which role-specific competencies are most important.
+- Whether simulation improves recognition of incorrect AI outputs.
+- Whether competence is retained after training.
+- Whether training changes workplace behaviour.
+- How organisations can provide equitable access to education.
+- Whether these changes produce measurable improvements in safety and patient outcomes.
 
-## ### Current status of the economic model
+## Overall conclusion
 
-The economic model has undergone a technical input-readiness assessment. Sixteen required parameters were identified, and all sixteen remain unresolved pending evidence verification. The readiness assessment therefore does not support a real-world NHS cost-effectiveness calculation at this stage.
+Preparing healthcare professionals for AI should be treated as a continuing professional and organisational responsibility. Safe adoption depends on the interaction between validated technology, capable professionals and institutions that support appropriate use and oversight.
 
-The model's calculation functions have also been tested using artificial values. These tests assess computational behaviour only; they do not validate the empirical inputs, clinical assumptions or economic conclusions of the model.
+---
 
-Consequently, no NHS-specific incremental cost-effectiveness ratio or cost-saving conclusion is reported. The outstanding evidence requirements are documented in the project's economic model and data-management records.
+# Discussion: From AI Awareness to Clinical Competence
 
-## 7.5 Workforce effects and professional autonomy
+## Principal argument
 
-Automation may change the tasks undertaken by healthcare professionals, but the net effect on workforce productivity is uncertain.
+The central argument of this research is that healthcare AI adoption requires more than access to technology. It requires professionals who can understand, interpret, question and appropriately use AI outputs.
 
-Time released from one activity may be used for additional patient care, transferred to other tasks or offset by new oversight responsibilities.
+The available training literature provides encouraging evidence that educational programmes can improve AI knowledge and some aspects of professional behaviour. However, the evidence linking training to organisational change and patient benefit remains limited.
 
-The distinction between AI-assisted and autonomous systems also affects professional responsibility. A system that supports a clinician's judgement creates different workflow and accountability questions from a system that produces a defined screening outcome without routine human interpretation.
+This gap suggests that healthcare education should move beyond introductory awareness towards role-specific competence, practical assessment and continuing development.
 
-The project therefore supports evaluating workforce effects through actual changes in service activity and resource use rather than relying on theoretical time savings.
+## Why a tiered approach is preferable
 
-## 7.6 Trust as an organisational condition
+Healthcare professionals do not interact with AI in identical ways. A common foundation can support shared understanding, but professionals who use AI in clinical decisions need more specialised preparation.
 
-Appropriate trust is a condition for responsible use, not a substitute for evidence.
+The proposed three-level framework therefore distinguishes foundational literacy, clinical competence and specialist oversight.
 
-Healthcare professionals need to understand a system's intended purpose, limitations and validation. Patients should receive appropriate information about the role of AI in their care.
+## The importance of human judgement
 
-Organisations also need processes for monitoring performance, identifying problems and escalating uncertain or inappropriate outputs.
+The objective is not to encourage unquestioning trust in AI. Professionals should understand the conditions under which a system may be unreliable and retain the ability to challenge its output.
 
-Trust should be calibrated to the evidence and the context in which the technology is used.
+This is particularly important when AI results conflict with other clinical information or when image quality, patient characteristics or system limitations create uncertainty.
 
-## 7.7 Institutional transferability
+## Economic implications
 
-International studies can provide useful evidence about economic methods and potential implementation effects. However, their results may not transfer directly to NHS England.
+Training requires resources, including staff time, education materials, simulation, supervision and reassessment. These costs should be considered in implementation planning.
 
-Differences in reimbursement, workforce costs, screening organisation, infrastructure and patient pathways can materially affect results.
+Potential improvements in workflow or efficiency should be measured rather than assumed. Economic savings should not be used as a substitute for evidence of safety and clinical value.
 
-This is particularly relevant to the diabetic retinopathy case study. Economic estimates from another healthcare system should be treated as contextual evidence unless their assumptions can be adapted and justified for the NHS setting.
+## Limitations
 
-## 7.8 Governance and equity
+This project is an independent secondary research study and does not collect new clinical or participant data.
 
-Economic sustainability should not be considered separately from safety, accountability and equity.
+The literature includes different educational interventions, professions, study designs and outcome measures. The evidence cannot establish one universally effective curriculum.
 
-A technology may appear economically favourable while producing uneven benefits or imposing additional burdens on particular population groups.
+The proposed framework has not been prospectively validated. It should be treated as a research-based proposal requiring future evaluation.
 
-Evaluation should therefore consider differences in diagnostic performance, access, referral patterns and the distribution of costs and benefits.
+## Future research
 
-Governance arrangements should also make responsibilities clear and provide appropriate human oversight.
+Future research should investigate:
+- Which role-specific competencies are most important.
+- Whether simulation improves recognition of incorrect AI outputs.
+- Whether competence is retained after training.
+- Whether training changes workplace behaviour.
+- How organisations can provide equitable access to education.
+- Whether these changes produce measurable improvements in safety and patient outcomes.
 
-## 7.9 Implications for the research questions
+## Overall conclusion
 
-The evidence provides a basis for addressing all six research questions, but the strength of the conclusions differs.
-
-The possibility of economic value is supported by published evaluations, although NHS-specific value remains unestablished. Cost categories can be identified, but complete local cost inputs are unavailable. Workforce and trust findings are informed by published research, but cannot be translated into a universal quantitative estimate. Institutional and policy frameworks provide relevant analytical context, while distributional evidence remains incomplete.
-
-These differences should remain visible in the final interpretation.
-
-## 7.10 Limitations
-
-This project has several limitations.
-
-First, it relies on secondary evidence rather than new empirical data. Second, the evidence base includes heterogeneous study designs and healthcare settings. Third, some preliminary extractions require full-text verification. Fourth, complete NHS-specific implementation and operating costs have not been established. Fifth, the economic model cannot provide a definitive result without verified inputs.
-
-The project is also an independent research exercise and has not been peer-reviewed or endorsed by an academic institution or healthcare organisation.
-
-## 7.11 Overall discussion
-
-The evidence does not support a simple conclusion that AI is always economically beneficial or that it should be rejected because of its risks.
-
-A more defensible interpretation is that healthcare AI should be adopted and evaluated conditionally. Its value depends on whether clinical performance, implementation costs, workforce effects, organisational readiness, human oversight and distributional consequences are addressed together.
+Preparing healthcare professionals for AI should be treated as a continuing professional and organisational responsibility. Safe adoption depends on the interaction between validated technology, capable professionals and institutions that support appropriate use and oversight.
 
 ---
 

@@ -1,0 +1,12 @@
+
+indicator_id,evaluation_level,indicator,measurement_method,interpretation_limit
+E01,Learner reaction,Perceived relevance,Structured course feedback,Satisfaction is not competence
+E02,Knowledge,Understanding of AI limitations,Pre and post knowledge assessment,Knowledge is not workplace performance
+E03,Practical competence,Recognition of incorrect outputs,Standardised simulation assessment,Simulation is not real patient outcome
+E04,Critical judgement,Appropriate challenge of AI outputs,Observed scenario assessment,Scenario performance may not generalise
+E05,Communication,Ability to explain AI involvement,Structured communication assessment,Does not establish patient understanding
+E06,Workplace behaviour,Appropriate checking and escalation,Approved audit or observation,Confounding factors must be considered
+E07,Organisational outcome,Implementation and incident trends,Organisational evaluation,Changes may have multiple causes
+E08,Patient outcome,Patient safety and clinical outcomes,Appropriately designed clinical evaluation,Requires suitable data and governance
+E09,Equity,Differences across relevant groups,Disaggregated performance assessment,Small groups may create uncertainty
+E10,Maintenance,Competence after updates and refresher learning,Repeat assessment,Assessment intervals require justification
